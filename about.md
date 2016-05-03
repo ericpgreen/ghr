@@ -4,6 +4,8 @@ title: About this course
 subtitle: 
 ---
 
+**Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric)
+
 This course will introduce you to research designs and methods in global health. Global health is a multi-disciplinary field, so we will consider approaches common to the behavioral and social sciences, public health, and medicine. 
 
 Our primary interest will be the study of causal inference. In global health, we are often interested in knowing what programs and interventions "work" and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. As such, we will spend a good amount of time understanding the rationale, process, and limitations of field experiments. 
