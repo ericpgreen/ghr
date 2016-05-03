@@ -154,8 +154,7 @@ img {
   width: 100%;
   border-radius: 50%;
   display: block;
-  border-color: #ffffff;
-  border-style: solid;
+  background: #ffffff;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
