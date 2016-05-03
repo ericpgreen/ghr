@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <center>
-<img src="img/epg.png">
+<img src="/img/epg.png">
 <br>
 <br>
 </center>
