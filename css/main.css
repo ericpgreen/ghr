@@ -155,6 +155,7 @@ img {
   border-radius: 50%;
   display: block;
   border-color: #ffffff;
+  border-style: solid;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
