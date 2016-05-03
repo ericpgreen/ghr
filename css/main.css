@@ -140,7 +140,6 @@ img {
   left: 50%;
   width: 50px;
   margin-top: -25px;
-  color: #ffffff;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -155,10 +154,11 @@ img {
   width: 100%;
   border-radius: 50%;
   display: block;
+  color: #ffffff;
 }
 
 .navbar-custom.top-nav-short .avatar-container{
-  opacity: 0;
+  opacity: 1;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container  {
