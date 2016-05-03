@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Syllabus 
-subtitle: GLHLTH 702
+title: Previous Syllabi 
 ---
 
-Coming Fall 2016!
+| Year | Semester | Course |
+| 2015 | 
 
 Looking for previous semesters? See [here]({{ site.url }}files/previous-syllabi/).
