@@ -140,6 +140,7 @@ img {
   left: 50%;
   width: 50px;
   margin-top: -25px;
+  color: #ffffff;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -149,7 +150,6 @@ img {
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  color: #ffffff;
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
