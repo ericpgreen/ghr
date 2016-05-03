@@ -23,6 +23,7 @@ description: Test
 
 # List of links in the navigation bar
 navbar-links:
+  About: "about"
   Book: "http://ghr.ericpgreen.com/"
   Syllabus:
     - 371: "371"
@@ -31,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/dm.png"
+avatar: "/img/dukelogo.png"
 
 # --- Footer options --- #
 
