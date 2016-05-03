@@ -8,9 +8,10 @@ subtitle:
 <img src="img/epg.png">
 <br>
 <br>
+</center>
 
 **Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric)
-</center>
+
 
 This course will introduce you to research designs and methods in global health. Global health is a multi-disciplinary field, so we will consider approaches common to the behavioral and social sciences, public health, and medicine. 
 
