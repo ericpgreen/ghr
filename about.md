@@ -4,12 +4,6 @@ title: About this course
 subtitle: 
 ---
 
-<center>
-<img src="/img/epg.png">
-<br>
-<br>
-</center>
-
 **Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric)
 
 
