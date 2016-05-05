@@ -17,10 +17,10 @@ First class on August 30. Please review the syllabus prior to class.
 ### <a name="mod1"></a> Module 1 - The Big Picture
 
 
-#### Required Resources
+#### Resources
 
-| Book   | Chapter 1 |
-| Videos | Chapter 1 |
+| **Book**   | Chapter 1 | Required |
+| **Videos** | Chapter 1 | Required |
 
 #### Class Sessions
 
@@ -39,8 +39,10 @@ First class on August 30. Please review the syllabus prior to class.
 
 ### <a name="mod2"></a> Module 2 - How to be a Better Consumer of Research
 
-#### Required Resources
-Chapters 2-4 and associated videos
+#### Resources
+
+| **Book**   | Chapters 2-4 | Required |
+| **Videos** | Chapters 2-4 | Required |
 
 #### Class Sessions
 
@@ -61,8 +63,10 @@ Chapters 2-4 and associated videos
 
 ### <a name="mod3"></a> Module 3 - Fundamentals of Research Design
 
-#### Required Resources
-Chapters 5-7 and associated videos
+#### Resources
+
+| **Book**   | Chapters 5-7 | Required |
+| **Videos** | Chapters 5-7 | Required |
 
 #### Class Sessions
 
@@ -84,8 +88,10 @@ Chapters 5-7 and associated videos
 
 ### <a name="mod4"></a> Module 4 - Methods of Data Collection
 
-#### Required Resources
-Chapters 8-9 and associated videos
+#### Resources
+
+| **Book**   | Chapters 8-9 | Required |
+| **Videos** | Chapters 8-9 | Required |
 
 #### Class Sessions
 
@@ -105,8 +111,10 @@ Chapters 8-9 and associated videos
 
 ### <a name="mod5"></a> Module 5 - Non-Experimental Designs
 
-#### Required Resources
-Chapters 10-11 and associated videos
+#### Resources
+
+| **Book**   | Chapters 10-11 | Required |
+| **Videos** | Chapters 10-11 | Required |
 
 #### Class Sessions
 
@@ -127,8 +135,10 @@ Chapters 10-11 and associated videos
 
 ### <a name="mod6"></a> Module 6 - Experimental Designs
 
-#### Required Resources
-Chapter 12 and associated videos
+#### Resources
+
+| **Book**   | Chapter 12 | Required |
+| **Videos** | Chapter 12 | Required |
 
 #### Class Sessions
 
@@ -148,8 +158,10 @@ Chapter 12 and associated videos
 
 ### <a name="mod7"></a> Module 7 - Producing Research
 
-#### Required Resources
-Chapters 13-15 and associated videos
+#### Resources
+
+| **Book**   | Chapters 13-15 | Required |
+| **Videos** | Chapters 13-15 | Required |
 
 #### Class Sessions
 
