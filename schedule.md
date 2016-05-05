@@ -4,7 +4,7 @@ title: Schedule
 subtitle: Fall 2016
 ---
 
-| Jump: | &nbsp;&nbsp;&nbsp; [Mod 1]({{ site.baseurl }}/#mod1) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 2]({{ site.baseurl }}/#mod2) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 3]({{ site.baseurl }}/#mod3) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 4]({{ site.baseurl }}/#mod4) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 5]({{ site.baseurl }}/#mod5) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 6]({{ site.baseurl }}/#mod6) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Mod 7]({{ site.baseurl }}/#mod7) &nbsp;&nbsp;&nbsp; |
+| Jump: | [Mod 1]({{ site.baseurl }}/#mod1) | [Mod 2]({{ site.baseurl }}/#mod2) | [Mod 3]({{ site.baseurl }}/#mod3) | [Mod 4]({{ site.baseurl }}/#mod4) | [Mod 5]({{ site.baseurl }}/#mod5) | [Mod 6]({{ site.baseurl }}/#mod6) | [Mod 7]({{ site.baseurl }}/#mod7) |
 
 * * *
 
