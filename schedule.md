@@ -5,7 +5,9 @@ subtitle: Fall 2016
 ---
 
 <center>
+
 | Jump: | [Mod 1]({{ site.baseurl }}/schedule/#mod1) | [Mod 2]({{ site.baseurl }}/#mod2) | [Mod 3]({{ site.baseurl }}/#mod3) | [Mod 4]({{ site.baseurl }}/#mod4) | [Mod 5]({{ site.baseurl }}/#mod5) | [Mod 6]({{ site.baseurl }}/#mod6) | [Mod 7]({{ site.baseurl }}/#mod7) |
+
 </center>
 
 * * *
