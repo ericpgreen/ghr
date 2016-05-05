@@ -12,6 +12,8 @@ subtitle: Fall 2016
 
 First class on August 30. Please review the syllabus prior to class.
 
+* * *
+
 ### <a name="mod1"></a> Module 1 - The Big Picture
 
 #### Required Resources
@@ -28,6 +30,8 @@ Chapter 1 and associated videos
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | None                          | NA       |
+
+* * *
 
 ### <a name="mod2"></a> Module 2 - How to be a Better Consumer of Research
 
@@ -47,6 +51,8 @@ Chapters 2-4 and associated videos
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
+
+* * *
 
 ### <a name="mod3"></a> Module 3 - Fundamentals of Research Design
 
@@ -68,6 +74,8 @@ Chapters 5-7 and associated videos
 |-------------------------------|----------|
 | TBA                           | TBA      |
 
+* * *
+
 ### <a name="mod4"></a> Module 4 - Methods of Data Collection
 
 #### Required Resources
@@ -85,6 +93,8 @@ Chapters 8-9 and associated videos
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
+
+* * *
 
 ### <a name="mod5"></a> Module 5 - Non-Experimental Designs
 
@@ -105,6 +115,8 @@ Chapters 10-11 and associated videos
 |-------------------------------|----------|
 | TBA                           | TBA      |
 
+* * *
+
 ### <a name="mod6"></a> Module 6 - Experimental Designs
 
 #### Required Resources
@@ -122,6 +134,8 @@ Chapter 12 and associated videos
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
+
+* * *
 
 ### <a name="mod7"></a> Module 7 - Producing Research
 
