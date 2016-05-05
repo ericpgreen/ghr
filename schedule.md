@@ -18,7 +18,8 @@ First class on August 30. Please review the syllabus prior to class.
 
 
 #### Required Resources
-
+ 
+ 
 Chapter 1 and associated videos
 
 #### Class Sessions
