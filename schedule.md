@@ -28,6 +28,7 @@ Chapter 1 and associated videos
 | Sept 6  | 1.2 Research 101    | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | None                          | NA       |
@@ -49,6 +50,7 @@ Chapters 2-4 and associated videos
 | Sept 20 | 2.4 Cause and effect          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
@@ -71,6 +73,7 @@ Chapters 5-7 and associated videos
 | Oct 6 | 3.5 Power          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
@@ -91,6 +94,7 @@ Chapters 8-9 and associated videos
 | Oct 20 | 4.3 Qualitative and mixed methods          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
@@ -112,6 +116,7 @@ Chapters 10-11 and associated videos
 | Nov 3 | 5.4 Quasi-experimental designs          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
@@ -132,6 +137,7 @@ Chapter 12 and associated videos
 | Nov 15 | 6.3 Extensions          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
@@ -153,6 +159,7 @@ Chapters 13-15 and associated videos
 | Dec 1 | 7.4 Policy impact          | AA       |
 
 #### Homework
+
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | TBA                           | TBA      |
