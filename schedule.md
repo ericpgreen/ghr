@@ -16,6 +16,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 ### <a name="mod1"></a> Module 1 - The Big Picture
 <br>
+
 #### Required Resources
 Chapter 1 and associated videos
 
