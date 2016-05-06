@@ -57,7 +57,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod2/hw2/)                           | TBA      |
 
 * * *
 
