@@ -26,8 +26,8 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Sept 1  | 1.1 Module Overview | RA       |
-| Sept 6  | 1.2 Research 101    | AA       |
+| Sept 1  | [1.1 Module Overview]({{ site.baseurl }}/modules/mod1/s1-1/) | RA       |
+| Sept 6  | [1.2 Research 101]({{ site.baseurl }}/modules/mod1/s1-2/)    | AA       |
 
 #### Homework
 
