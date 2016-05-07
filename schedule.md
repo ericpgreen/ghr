@@ -82,7 +82,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod2/hw3/)                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod3/hw3/)                           | TBA      |
 
 * * *
 
@@ -105,7 +105,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod2/hw4/)                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod4/hw4/)                           | TBA      |
 
 * * *
 
@@ -129,7 +129,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod2/hw5/)                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod5/hw5/)                           | TBA      |
 
 * * *
 
@@ -152,7 +152,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod2/hw6/)                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod6/hw6/)                           | TBA      |
 
 * * *
 
