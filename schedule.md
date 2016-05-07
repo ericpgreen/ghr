@@ -48,10 +48,10 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Sept 8  | 2.1 Module Overview           | RA       |
-| Sept 13 | 2.2 Searching the literature  | AA       |
-| Sept 15 | 2.3 Critical appraisal        | AA       |
-| Sept 20 | 2.4 Cause and effect          | AA       |
+| Sept 8  | [2.1 Module Overview]({{ site.baseurl }}/modules/mod2/s2-1/)           | RA       |
+| Sept 13 | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/)  | AA       |
+| Sept 15 | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/)        | AA       |
+| Sept 20 | [2.4 Cause and effect]({{ site.baseurl }}/modules/mod2/s2-4/)          | AA       |
 
 #### Homework
 
@@ -72,17 +72,17 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Sept 22  | 3.1 Module Overview           | RA       |
-| Sept 27 | 3.2 Theory of change  | AA       |
-| Sept 29 | 3.3 Measurement        | AA       |
-| Oct 4 | 3.4 Sampling          | AA       |
-| Oct 6 | 3.5 Power          | AA       |
+| Sept 22  | [3.1 Module Overview]({{ site.baseurl }}/modules/mod3/s3-1/)           | RA       |
+| Sept 27 | [3.2 Theory of change]({{ site.baseurl }}/modules/mod3/s3-2/)  | AA       |
+| Sept 29 | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/)        | AA       |
+| Oct 4 | [3.4 Sampling]({{ site.baseurl }}/modules/mod3/s3-4/)          | AA       |
+| Oct 6 | [3.5 Power]({{ site.baseurl }}/modules/mod3/s3-5/)          | AA       |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod2/hw3/)                           | TBA      |
 
 * * *
 
@@ -97,15 +97,15 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Oct 13  | 4.1 Module Overview           | RA       |
-| Oct 18 | 4.2 Quantitative  | AA       |
-| Oct 20 | 4.3 Qualitative and mixed methods          | AA       |
+| Oct 13  | [4.1 Module Overview]({{ site.baseurl }}/modules/mod4/s4-1/)           | RA       |
+| Oct 18 | [4.2 Quantitative]({{ site.baseurl }}/modules/mod4/s4-2/)  | AA       |
+| Oct 20 | [4.3 Qualitative and mixed methods]({{ site.baseurl }}/modules/mod4/s4-3/)          | AA       |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod2/hw4/)                           | TBA      |
 
 * * *
 
@@ -120,16 +120,16 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Oct 25  | 5.1 Module Overview           | RA       |
-| Oct 27 | 5.2 Observational designs  | AA       |
-| Nov 1 | 5.3 Quasi-experimental designs          | AA       |
-| Nov 3 | 5.4 Quasi-experimental designs          | AA       |
+| Oct 25  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
+| Oct 27 | [5.2 Observational designs]({{ site.baseurl }}/modules/mod5/s5-2/)  | AA       |
+| Nov 1 | [5.3 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
+| Nov 3 | [5.4 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-4/)          | AA       |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod2/hw5/)                           | TBA      |
 
 * * *
 
@@ -144,15 +144,15 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 8 | 6.1 Module overview          | RA       |
-| Nov 10 | 6.2 Basics          | AA       |
-| Nov 15 | 6.3 Extensions          | AA       |
+| Nov 8 | [6.1 Module overview]({{ site.baseurl }}/modules/mod6/s6-1/)          | RA       |
+| Nov 10 | [6.2 Basics]({{ site.baseurl }}/modules/mod6/s6-2/)          | AA       |
+| Nov 15 | [6.3 Extensions]({{ site.baseurl }}/modules/mod6/s6-3/)          | AA       |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [TBA]({{ site.baseurl }}/modules/mod2/hw6/)                           | TBA      |
 
 * * *
 
@@ -167,10 +167,10 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 17 | 7.1 Module overview          | RA       |
-| Nov 22 | 7.2 Planning a study          | AA       |
-| Nov 29 | 7.3 Dissemination          | AA       |
-| Dec 1 | 7.4 Policy impact          | AA       |
+| Nov 17 | [7.1 Module overview]({{ site.baseurl }}/modules/mod7/s7-1/)          | RA       |
+| Nov 22 | [7.2 Planning a study]({{ site.baseurl }}/modules/mod7/s7-2/)          | AA       |
+| Nov 29 | [7.3 Dissemination]({{ site.baseurl }}/modules/mod7/s7-3/)          | AA       |
+| Dec 1 | [7.4 Policy impact]({{ site.baseurl }}/modules/mod7/s7-4/)          | AA       |
 
 #### Homework
 
