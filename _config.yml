@@ -24,7 +24,7 @@ description: Course page for global health research design and methods.
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Book: "http://ghr.ericpgreen.com/"
+  Book: "book"
   Syllabus:
     - 371: "371"
     - 702: "702"
