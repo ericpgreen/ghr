@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About this course 
+title: About this Course 
 subtitle: 
 ---
 
-**Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric), Duke University
+**Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric)
+
+**Institution:** Duke University
 
 * * *
 
@@ -15,3 +17,7 @@ Our primary interest will be the study of causal inference. In global health, we
 Randomization is not always possible or advisable, however, and researchers must build a causal argument using non-experimental methods. We will review several approaches, consider relevant threats to causal inference, and discuss how to improve non-experimental research designs. 
 
 As we build up to this discussion, we will cover research basics, such as developing and testing theory, asking good questions, understanding variability, designing good measurement, and selecting research participants. In the latter part of the course, we will turn to more specialized topics in global health research, such as writing manuscripts, sharing your work, and making an impact.
+
+* * * 
+
+This course is only available to Duke University students, but everyone is welcome to use the resources accessible through this website.
