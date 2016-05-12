@@ -176,4 +176,4 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| None                          | NA       |
