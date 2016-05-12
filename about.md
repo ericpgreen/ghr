@@ -20,4 +20,4 @@ As we build up to this discussion, we will cover research basics, such as develo
 
 * * * 
 
-This course is only available to Duke University students, but everyone is welcome to use the resources accessible through this website.
+*This course is only available to Duke University students, but everyone is welcome to use the resources accessible through this website.*
