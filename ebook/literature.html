@@ -278,15 +278,14 @@ Figure 2.5: Drugs for preventing malaria in pregnancy: conceptual framework. Sou
 </div>
 <div id="results" class="section level5 unnumbered">
 <h5>Results</h5>
-<p>The <em>Results</em> section typically begins with details about how many primary articles were identified and reviewed. This is usually displayed graphically with a flow diagram like the one below from Radeva-Petrova et al. <span class="citation">(2014)</span>.</p>
+<p>The <em>Results</em> section typically begins with details about how many primary articles were identified, screened, and excluded, typically presented graphically with a flow diagram like the one below from Radeva-Petrova et al. <span class="citation">(2014)</span>.</p>
 <div class="figure"><span id="fig:flowdiag"></span>
 <img src="images/flowdiag.png" alt="Study flow diagram. Source: Radeva-Petrova et al. (2014), http://bit.ly/1U3q2Oj"  />
 <p class="caption">
 Figure 2.6: Study flow diagram. Source: Radeva-Petrova et al. (2014), <a href="http://bit.ly/1U3q2Oj" class="uri">http://bit.ly/1U3q2Oj</a>
 </p>
 </div>
-<p>The review authors found 179 unique studies and screened these titles and abstracts for inclusion. They excluded 126 records and reviewed the full-text for the remaining 53 studies. This full-text review led them to exclude another 31 articles, leaving them with 17 trials.<a href="references.html#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></p>
-<p>Once the included studies are identified, it’s customary for authors to review the quality of the evidence presented in each study. We’ll discuss the nature of these sources of bias in a later chapter, but you should familiarize yourself with these bias heatmaps. While a bit on the ugly side, they provide a useful summary of bias. As a future producer of research, you should start to look at these heatmaps and think, “how can I make sure my studies are full of green pluses?”</p>
+<p>Once the included studies are identified, it’s customary for review authors to report on the quality of the evidence presented in each study. We’ll discuss the nature of these sources of bias in a later chapter, but you should familiarize yourself with these heatmaps. While a bit on the ugly side, they provide a useful summary of bias. As a future producer of research, you should start to look at these figures and think, “how can I make sure my studies are full of green pluses?”</p>
 <div class="figure"><span id="fig:bias"></span>
 <img src="images/bias.png" alt="Risk of bias summary: review authors’ judgements about each risk of bias item for each included trial. Source: Radeva-Petrova et al. (2014), http://bit.ly/1U3q2Oj"  />
 <p class="caption">
@@ -361,7 +360,7 @@ Customize your Google Scholar experience by clicking on the gear icon. Enable us
 <p>A good starting point for future searching is to note an article’s <strong>keywords</strong>. Not all journals print keywords, but if they do, you’ll probably find them right after the abstract.</p>
 <p>Next comes the <strong>introduction</strong>. Some journals and disciplines have very brief introduction sections and might not be of much help. This is often true in medicine and public health.</p>
 <p>The <strong>discussion</strong> section is also a place to look for new leads. Authors typically use the discussion to link the study results to the existing literature, demonstrating how the results add to what is already known.</p>
-<p>After looking at the introduction and discussion sections, it’s often useful to skim the <strong>references</strong> to get a sense of which journals publish this type of work. If a certain journal appears to be a common outlet for this work, a scan of the journal’s table of contents for recent issues could be useful.<a href="references.html#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></p>
+<p>After looking at the introduction and discussion sections, it’s often useful to skim the <strong>references</strong> to get a sense of which journals publish this type of work. If a certain journal appears to be a common outlet for this work, a scan of the journal’s table of contents for recent issues could be useful.<a href="references.html#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></p>
 <div class="rmdtip">
 <p>
 If you have access to a university library, you can learn more about the scholarly journals in a field by looking up <a href="https://en.wikipedia.org/wiki/Journal_Citation_Reports"><em>Journal Citation Reports</em></a>. This annual report ranks the journals in each field according to impact factors. <a href="https://en.wikipedia.org/wiki/Impact_factor">Impact factors</a> are one metric used to evaluate the importance of a journal in its field.
@@ -452,10 +451,11 @@ Figure 2.9: Boolean operators: AND, OR, NOT
 </div>
 <p>You’ll need to know some basic Boolean operators to be an effective searcher: AND, OR, NOT. For instance, let’s consider the search PubMed runs when you enter “malaria OR pregnancy”:</p>
 <p><code>(&quot;malaria&quot;[MeSH Terms] OR &quot;malaria&quot;[All Fields]) OR (&quot;pregnancy&quot;[MeSH Terms] OR &quot;pregnancy&quot;[All Fields])</code></p>
-<p>These four terms are combined with <code>OR</code>, meaning we keep results that match <em>any</em> of these terms. At the time of writing, PubMed returns 922,588 results. It would make more sense to search for “malaria AND pregnancy”:</p>
+<p>These four terms are combined with <code>OR</code>, meaning we keep results that match <em>any</em> of these terms. At the time of writing, PubMed returns 922,588 results.</p>
+<p>Of course it would make more sense to search for “malaria AND pregnancy”, instead of “malaria OR pregnancy”:</p>
 <p><code>(&quot;malaria&quot;[MeSH Terms] OR &quot;malaria&quot;[All Fields]) AND (&quot;pregnancy&quot;[MeSH Terms] OR &quot;pregnancy&quot;[All Fields])</code></p>
-<p>The first two terms are combined with <code>OR</code>, as are the last two terms. These combinations are then combined with <code>AND</code> (notice the use of parentheses to segment the operations), dropping our pool of results to 4,203 records. The <code>AND</code> operator will always maintain or decrease the number of results.</p>
-<p>If we want to limit the results humans, we can add <code>AND &quot;humans&quot;[MeSH Terms]</code> to the end.<a href="references.html#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a> Doing so drops our pool of results to 3,798.</p>
+<p>The first two terms and last two terms are combined separately with <code>OR</code>. These combinations are then combined with <code>AND</code> (notice the use of parentheses to segment the operations), dropping our pool of results to 4,203 records. The <code>AND</code> operator will always maintain or decrease the number of results.</p>
+<p>If we want to limit the results humans, we can add <code>AND &quot;humans&quot;[MeSH Terms]</code> to the end.<a href="references.html#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a> Doing so drops our pool of results to 3,798.</p>
 <p><code>(&quot;malaria&quot;[MeSH Terms] OR &quot;malaria&quot;[All Fields]) AND (&quot;pregnancy&quot;[MeSH Terms] OR &quot;pregnancy&quot;[All Fields]) AND &quot;humans&quot;[MeSH Terms]</code></p>
 <p>Alternatively, we could use the <code>NOT</code> operator to limit the results to non-humans. Not surprisingly, we get 405 records. (If you are making a surprised face, think about it this way: <code>405 + 3,798 = 4,203</code> or <code>non-human results + human results = all results</code>)</p>
 <p><code>((&quot;malaria&quot;[MeSH Terms] OR &quot;malaria&quot;[All Fields]) AND (&quot;pregnancy&quot;[MeSH Terms] OR &quot;pregnancy&quot;[All Fields])) NOT &quot;humans&quot;[MeSH Terms]</code></p>
@@ -469,7 +469,7 @@ Figure 2.9: Boolean operators: AND, OR, NOT
 <li><code>AND</code> malaria endemic</li>
 <li><code>AND</code> chemoprevention</li>
 <li><code>AND</code> randomized controlled trial</li>
-<li><code>AND</code> weight</li>
+<li><code>AND</code> parasitaemia</li>
 </ul>
 <p>Within each group, we have several <code>ORs</code> to consider. The parentheses can get confusing, so let’s build the search one line at a time.</p>
 <ul>
@@ -487,8 +487,8 @@ Figure 2.9: Boolean operators: AND, OR, NOT
 <h5>Screening results</h5>
 <p>Even the best search queries return some duds, so the next step is screening. We can return to Radeva-Petrova et al. <span class="citation">(2014)</span> to see what a thorough approach looks like. You would likely take some shortcuts for a regular literature review.</p>
 <p>Typically systematic review searches will return hundreds or thousands of potential hits, so a study team will screen titles and abstracts to exclude obvious mistakes. When beginning this process, it’s common to have team members screen some of the same records to establish <strong>reliability</strong>, a concept that we will discuss in more depth in the chapter on measurement. Basically, you want to know that everyone screening records would make the same inclusion/exclusion decision.</p>
-<p>The Radeva-Petrova et al. <span class="citation">(2014)</span> search strategy turned up 179 unique records, and the authors excluded 126 of them after screening the abstracts. The excluded studies did not meet certain <em>pre-defined</em> criteria. For instance, the authors only wanted to include studies using RCTs and quasi-experimental designs.</p>
-<p>This left the team with 53 studies that required a full-text review. Only 17 of the 53 studies still met eligibility criteria after this review.</p>
+<p>The Radeva-Petrova et al. <span class="citation">(2014)</span> search strategy turned up 179 unique records, and the authors excluded 126 of these records after screening the abstracts. The excluded studies did not meet certain <em>pre-defined</em> criteria. For instance, the authors only wanted to include studies using RCTs and quasi-experimental designs.</p>
+<p>This left the team with 53 studies that required a full-text review. Only 17 of the 53 studies still met eligibility criteria after this review.<a href="references.html#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></p>
 </div>
 <div id="supplemental-searches" class="section level5 unnumbered">
 <h5>Supplemental searches</h5>
