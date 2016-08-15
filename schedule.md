@@ -109,6 +109,10 @@ First class on August 30. Please review the syllabus prior to class.
 
 * * *
 
+**Midterm Exam:** October 25
+
+* * *
+
 ### <a name="mod5"></a> Module 5 - Non-Experimental Designs
 
 #### Resources
@@ -120,10 +124,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Oct 25  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
-| Oct 27 | [5.2 Observational designs]({{ site.baseurl }}/modules/mod5/s5-2/)  | AA       |
-| Nov 1 | [5.3 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
-| Nov 3 | [5.4 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-4/)          | AA       |
+| Oct 27  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
+| Nov 1 | [5.2 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-2/)          | AA       |
+| Nov 3 | [5.3 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
 
 #### Homework
 
