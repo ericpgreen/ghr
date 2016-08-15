@@ -125,7 +125,7 @@ First class on August 30. Please review the syllabus prior to class.
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
 | Oct 27  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
-| Nov 1 | [5.2 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-2/)          | AA       |
+| Nov 1 | [5.2 Observational designs]({{ site.baseurl }}/modules/mod5/s5-2/)          | AA       |
 | Nov 3 | [5.3 Quasi-experimental designs]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
 
 #### Homework
