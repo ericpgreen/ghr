@@ -38,8 +38,8 @@ First class on August 30. Please review the syllabus prior to class.
 | Date    | Session             | Required | In-class |
 |---------|---------------------|----------|----------|
 | Sept 8  | [2.1 Module Overview]({{ site.baseurl }}/modules/mod2/s2-1/)           |  | RA       |
-| Sept 13 | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/)  | [GHR, CH 2](http://www.designsandmethods.com/ebook/literature.html) | AA       |
-| Sept 15 | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/)        | [GHR, CH 3](http://www.designsandmethods.com/ebook/critical.html) | AA       |
+| Sept 13 | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/)  | [GHR, CH2](http://www.designsandmethods.com/ebook/literature.html) | AA       |
+| Sept 15 | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/)        | [GHR, CH3](http://www.designsandmethods.com/ebook/critical.html) | AA       |
 
 #### Homework
 
@@ -56,7 +56,7 @@ First class on August 30. Please review the syllabus prior to class.
 | Date    | Session             | Required | In-class |
 |---------|---------------------|----------|----------|
 | Sept 20  | [3.1 Module Overview]({{ site.baseurl }}/modules/mod3/s3-1/)           | | RA       |
-| Sept 22 | [3.2 Cause and effect]({{ site.baseurl }}/modules/mod3/s3-2/)          | [GHR, CH 4](http://www.designsandmethods.com/ebook/causeeffect.html) |AA       |
+| Sept 22 | [3.2 Cause and effect]({{ site.baseurl }}/modules/mod3/s3-2/)          | [GHR, CH4](http://www.designsandmethods.com/ebook/causeeffect.html) |AA       |
 | Sept 27 | [3.3 Theory of change]({{ site.baseurl }}/modules/mod3/s3-3/)  | GHR, CH5 | AA       |
 | Sept 29 | [3.4 Measurement]({{ site.baseurl }}/modules/mod3/s3-4/)        | GHR, CH6 | AA       |
 | Oct 4 | [3.5 Sampling]({{ site.baseurl }}/modules/mod3/s3-5/)          | GHR, CH7 | AA       |
