@@ -16,8 +16,6 @@ First class on August 30. Please review the syllabus prior to class.
 
 ### <a name="mod1"></a> Module 1 - The Big Picture
 
-<br>
-
 #### IRA Requirements
 
 GHR Chapter 1 
@@ -29,7 +27,6 @@ GHR Chapter 1
 | Sept 1  | [1.1 Module Overview]({{ site.baseurl }}/modules/mod1/s1-1/) |  RA       |
 | Sept 6  | [1.2 Research 101]({{ site.baseurl }}/modules/mod1/s1-2/)    | AA       |
 
-<br>
 
 #### Homework
 
