@@ -45,7 +45,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod2/hw2/)                           | TBA      |
+| [Asking a question and searching the literature](https://docs.google.com/document/d/1K4FXunaE5SCdWHEW0H7-dKI_NHkpxNrS-TLelfBqlGg/edit?usp=sharing)                           | Sept 22      |
 
 * * *
 
@@ -66,7 +66,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod3/hw3/)                           | TBA      |
+| TBA                           | TBA      |
 
 * * *
 
@@ -84,7 +84,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod4/hw4/)                           | TBA      |
+| TBA                           | TBA      |
 
 * * *
 
@@ -106,7 +106,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod5/hw5/)                           | TBA      |
+| TBA                           | TBA      |
 
 * * *
 
@@ -124,7 +124,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [TBA]({{ site.baseurl }}/modules/mod6/hw6/)                           | TBA      |
+| TBA                          | TBA      |
 
 * * *
 
