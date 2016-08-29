@@ -18,8 +18,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 #### IRA Requirements
  
-
-| GHR Chapter 1 | 
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapter 1 |
 
 #### Class Sessions
 
@@ -41,7 +42,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 #### IRA Requirements
 
-| GHR Chapters 2-3 |
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 2-3 |
 
 #### Class Sessions
 
@@ -63,7 +66,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 #### IRA Requirements
 
-GHR Chapters 4-5
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 4-5 |
 
 #### Class Sessions
 
@@ -85,7 +90,9 @@ GHR Chapters 4-5
 
 #### IRA Requirements
 
-GHR Chapters 6-7
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 6-7 |
 
 #### Class Sessions
 
@@ -109,6 +116,12 @@ GHR Chapters 6-7
 
 ### <a name="mod5"></a> Module 5 - Sampling and Power
 
+#### IRA Requirements
+
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 8-9 |
+
 #### Class Sessions
 
 | Date    | Session             | In-class |
@@ -126,6 +139,13 @@ GHR Chapters 6-7
 * * *
 
 ### <a name="mod6"></a> Module 6 - Non-Experimental Designs
+
+#### IRA Requirements
+
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 10-11 |
+
 
 #### Class Sessions
 
@@ -145,6 +165,12 @@ GHR Chapters 6-7
 
 ### <a name="mod7"></a> Module 7 - Experimental Designs
 
+#### IRA Requirements
+
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapter 12 |
+
 #### Class Sessions
 
 | Date    | Session             | In-class |
@@ -162,6 +188,13 @@ GHR Chapters 6-7
 * * *
 
 ### <a name="mod8"></a> Module 8 - Producing Research
+
+#### IRA Requirements
+
+| Type | Required | 
+|------|--------|
+| Book and Videos | GHR Chapters 13-15 |
+
 
 #### Class Sessions
 
