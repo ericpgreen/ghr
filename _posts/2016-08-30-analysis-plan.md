@@ -3,7 +3,6 @@ layout: post
 title: Planning ahead
 ---
 
-
 <p align="center">
   <img src="../img/plan.png">
 </p>
