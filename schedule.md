@@ -82,7 +82,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [Does Zika cause microcephaly?](https://docs.google.com/document/d/1OWybG3XzOZa1qub9-5AfLcnfMqKIg6O3PqMUvBLue3M/edit?usp=sharing)                           | Sept 30  |
 
 * * *
 
