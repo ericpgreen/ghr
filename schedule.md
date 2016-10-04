@@ -86,7 +86,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 * * *
 
-### <a name="mod4"></a> Module 4 - Data and Measurement
+### <a name="mod4"></a> Module 4 - Indicators and Data Colletion
 
 #### IRA Requirements
 
@@ -99,7 +99,7 @@ First class on August 30. Please review the syllabus prior to class.
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
 | Sept 29  | [4.1 Module Overview]({{ site.baseurl }}/modules/mod4/s4-1/)           | RA       |
-| Oct 4 | [4.2 Measurement]({{ site.baseurl }}/modules/mod4/s4-2/)  | AA       |
+| Oct 4 | [4.2 Indicators]({{ site.baseurl }}/modules/mod4/s4-2/)  | AA       |
 | Oct 6 | [4.3 Methods of Data Collection]({{ site.baseurl }}/modules/mod4/s4-3/)          | AA       |
 
 #### Homework
