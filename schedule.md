@@ -135,7 +135,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [Designing a high powered study (AA 5.3)](http://www.designsandmethods.com/modules/mod5/s5-3/)             | Nov 3      |
 
 * * *
 
@@ -176,7 +176,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Designing a high powered study (AA 5.3)](http://www.designsandmethods.com/modules/mod5/s5-3/)             | Nov 3      |
+| TBA                           | TBA      |
 
 * * *
 
