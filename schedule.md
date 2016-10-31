@@ -176,7 +176,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA      |
+| [Malaria and bednets: Part 1](https://docs.google.com/document/d/1rPiA_8HsqIUQovndFyUJj_coy5HWrTUYfB6gVetUG30/edit?usp=sharing)   | Nov 17   |
 
 * * *
 
@@ -213,7 +213,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBA                           | TBA       |
+| [Malaria and bednets: Part 2](https://docs.google.com/document/d/1xX2vCICOw6CgIDlJz-k4BP7Ad22O10KeKJLaUU1WnhI/edit?usp=sharing)                           | Dec 1       |
 
 * * *
 
