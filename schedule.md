@@ -130,6 +130,7 @@ First class on August 30. Please review the syllabus prior to class.
 | Oct 18  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
 | Oct 20 | [5.2 Sampling]({{ site.baseurl }}/modules/mod5/s5-2/)          | AA       |
 | Oct 25 | [5.3 Power]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
+| Oct 27 | Power review          | Review       |
 
 #### Homework
 
@@ -168,9 +169,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Oct 27 | 6.1 Module overview          | RA       |
-| Nov 1 | 6.2 Observational Designs          | AA       |
-| Nov 3 | 6.3 Quasi-Experimental Designs          | AA       |
+| Nov 1 | 6.2 Observational Designs          | Lecture/AA       |
+| Nov 3 | Review session          | Review       |
+| Nov 8 | 6.3 Quasi-Experimental Designs          | Lecture/AA       |
 
 #### Homework
 
@@ -205,9 +206,8 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 8 | 7.1 Module overview          | RA       |
-| Nov 10 | 7.2 Basics          | AA       |
-| Nov 15 | 7.3 Extensions          | AA       |
+| Nov 10 | 7.2 Basics          | Lecture/AA       |
+| Nov 15 | 7.3 Extensions          | Lecture/AA       |
 
 #### Homework
 
@@ -239,7 +239,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 17 | 8.1 Module overview          | RA       |
+| Nov 17 | 8.1 Module overview          | Lecture       |
 | Nov 22 | 8.2 Planning a Study          | AA       |
 | Nov 29 | 8.3 Dissemination          | AA       |
 | Dec 1 | 8.4 Policy Impact          | AA       |
