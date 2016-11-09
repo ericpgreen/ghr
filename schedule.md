@@ -188,7 +188,7 @@ First class on August 30. Please review the syllabus prior to class.
 | Type | Required | 
 |------|--------|
 | Book and Videos | GHR Chapter 12 (if available) |
-| Video | [Duflo, E. (2010). Social Experiments to Fight Poverty](http://www.equator-network.org/reporting-guidelines/consort/) |
+| Video | [Duflo, E. (2010). Social Experiments to Fight Poverty](https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty?language=en) |
 | Book | Running Randomized Evaluations, CH2 |
 | Web | [CONSORT guideines](http://www.equator-network.org/reporting-guidelines/consort/) |
 | Article | Blattman, C., Green, E. P., Jamison, J., Lehmann, M. C., & Annan, J. (2016). The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda. [*American Economic Journal: Applied Economics, 8(2)*](https://www.poverty-action.org/sites/default/files/publications/The-Returns-to-Microenterprise-Support-among-the-Ultrapoor.pdf), 35-64. |
