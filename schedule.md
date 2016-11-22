@@ -206,8 +206,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 10 | 7.2 Basics          | Lecture/AA       |
-| Nov 15 | 7.3 Extensions          | Lecture/AA       |
+| Nov 10 | 7.2 Basics          | Lecture      |
+| Nov 15 | 7.3 Extensions          | Lecture    |
+| Nov 15 | [7.4 Applications]({{ site.baseurl }}/modules/mod7/s7-4/)          | AA    |
 
 #### Homework
 
@@ -223,7 +224,7 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Type | Required | 
 |------|--------|
-| Book and Videos | GHR Chapters 13-15 (if available) |
+| Book and Videos | None |
 
 
 #### Class Sessions
@@ -239,10 +240,9 @@ First class on August 30. Please review the syllabus prior to class.
 
 | Date    | Session             | In-class |
 |---------|---------------------|----------|
-| Nov 17 | 8.1 Module overview          | Lecture       |
-| Nov 22 | 8.2 Planning a Study          | AA       |
-| Nov 29 | 8.3 Dissemination          | AA       |
-| Dec 1 | 8.4 Policy Impact          | AA       |
+| Nov 22 | 8.1 Planning a Study      | AA       |
+| Nov 29 | 8.2 Dissemination         | AA       |
+| Dec 1 | 8.3 Policy Impact          | AA       |
 
 #### Homework
 
