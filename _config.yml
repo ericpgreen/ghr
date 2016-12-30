@@ -30,7 +30,7 @@ navbar-links:
     - 702: "702"
   Schedule: "schedule"
   Piazza: 
-    - 702: https://piazza.com/duke/fall2016/glhlth702/home
+    - 371: piazza.com/duke/spring2017/glhlth371/home
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
