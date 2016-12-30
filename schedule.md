@@ -148,8 +148,8 @@ Insert
 |---------|---------------------|
 | Mar 21  | [5.1 RCT basics]({{ site.baseurl }}/modules/mod5/s5-1/) |
 | Mar 23  | [5.2 RCT threats]({{ site.baseurl }}/modules/mod5/s5-2/) |
-| Mar 28  | [5.3 Quasi-experimental: Pre/post, post-only, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
-| Mar 30  | [5.4 Quasi-experimental: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
+| Mar 28  | [5.3 Quasi: Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
+| Mar 30  | [5.4 Quasi: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
 
 <p></p>
 
@@ -217,6 +217,6 @@ Insert
 
 **Apr 25**: Review
 
-<iframe src="//giphy.com/embed/dB8nGbntTFXyg" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<iframe src="//giphy.com/embed/dB8nGbntTFXyg" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **May 02, 7-10pm**: Final Exam
