@@ -138,7 +138,7 @@ The goal of this module is to help you think through these two questions.
 Insert
 
 #### Learning Objectives
-<iframe width="100%" height="200" <iframe src="https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pub?gid=136777939&single=true&output=pdf)
 
