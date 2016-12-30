@@ -1,34 +1,29 @@
 ---
 layout: page
 title: Schedule 
-subtitle: Fall 2016
+subtitle: Spring 2017
 ---
 
-| Jump: | [Mod 1]({{ site.baseurl }}/schedule/#mod1) | [Mod 2]({{ site.baseurl }}/schedule/#mod2) | [Mod 3]({{ site.baseurl }}/schedule/#mod3) | [Mod 4]({{ site.baseurl }}/schedule/#mod4) | [Mod 5]({{ site.baseurl }}/schedule/#mod5) | [Mod 6]({{ site.baseurl }}/schedule/#mod6) | [Mod 7]({{ site.baseurl }}/schedule/#mod7) | [Mod 8]({{ site.baseurl }}/schedule/#mod8) |
+| Jump: | [Mod 1]({{ site.baseurl }}/schedule/#mod1) | [Mod 2]({{ site.baseurl }}/schedule/#mod2) | [Mod 3]({{ site.baseurl }}/schedule/#mod3) | [Mod 4]({{ site.baseurl }}/schedule/#mod4) | [Mod 5]({{ site.baseurl }}/schedule/#mod5) | [Mod 6]({{ site.baseurl }}/schedule/#mod6) | [Mod 7]({{ site.baseurl }}/schedule/#mod7) |
 
 * * *
 
-### Welcome
+### <a name="mod1"></a> Module 1 - Introduction to Global Health Research
 
-First class on August 30. Please review the syllabus prior to class.
+The goal of this module is to (re)introduce you to the fundamentals of scientific research from a global health perspective. 
 
-* * *
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1JMweua7_Thpbejroztattu90uGWE3Pfas0pssPQj_3w/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-### <a name="mod1"></a> Module 1 - The Big Picture
-
-#### IRA Requirements
- 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapter 1 |
+[Download as PDF](https://docs.google.com/spreadsheets/d/1JMweua7_Thpbejroztattu90uGWE3Pfas0pssPQj_3w/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Sept 1  | [1.1 Module Overview]({{ site.baseurl }}/modules/mod1/s1-1/) |  RA       |
-| Sept 6  | [1.2 Research 101]({{ site.baseurl }}/modules/mod1/s1-2/)    | AA       |
-
+| Date    | Session             | 
+|---------|---------------------|
+| Jan 12  | [1.1 Welcome]({{ site.baseurl }}/modules/mod1/s1-1/) |
+| Jan 17  | [1.2 Research 101]({{ site.baseurl }}/modules/mod1/s1-2/) |
+| Jan 19  | [1.3 Tools of the trade]({{ site.baseurl }}/modules/mod1/s1-3/) |
 
 #### Homework
 
@@ -38,216 +33,177 @@ First class on August 30. Please review the syllabus prior to class.
 
 * * *
 
-### <a name="mod2"></a> Module 2 - How to be a Better Consumer of Research
+### <a name="mod2"></a> Module 2 - Critical Appraisal
 
-#### IRA Requirements
+The goal of this module is to help you become a better consumer of research. This means learning how to search and evaluate the literature. 
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapters 2-3 |
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1NF8zC2prztMOHEFlFgLJR-FJvI6L6yMqrUKrc8AUEzY/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1NF8zC2prztMOHEFlFgLJR-FJvI6L6yMqrUKrc8AUEzY/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Sept 8  | [2.1 Module Overview]({{ site.baseurl }}/modules/mod2/s2-1/)           |  RA       |
-| Sept 13 | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/)  | AA       |
-| Sept 15 | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/)        | AA       |
+| Date    | Session             | 
+|---------|---------------------|
+| Jan 24  | [2.1 Systematic reviews and meta-analyses]({{ site.baseurl }}/modules/mod2/s2-1/) |
+| Jan 26  | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/) |
+| Jan 31  | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/) |
+| Feb 02  | No class |
+| Feb 07  | [2.4 Evaluating claims of causality]({{ site.baseurl }}/modules/mod2/s2-4/) |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Asking a question and searching the literature](https://docs.google.com/document/d/1K4FXunaE5SCdWHEW0H7-dKI_NHkpxNrS-TLelfBqlGg/edit?usp=sharing)                           | Sept 22      |
+| Asking a question and searching the literature  | Feb 14 |
 
 * * *
 
-### <a name="mod3"></a> Module 3 - Causal Impact and Theories of Change
+### <a name="mod3"></a> Module 3 - Data Collection and Measurement
 
-#### IRA Requirements
+The goal of this module is to introduce you to global health indicators, methods of data collection, and issues of measurement that you must consider when designing a study.
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapters 4-5 |
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Sept 20  | [3.1 Module Overview]({{ site.baseurl }}/modules/mod3/s3-1/)           | RA       |
-| Sept 22 | [3.2 Cause and effect]({{ site.baseurl }}/modules/mod3/s3-2/)          | AA       |
-| Sept 27 | [3.3 Theory of change]({{ site.baseurl }}/modules/mod3/s3-3/)  | AA       |
+| Date    | Session             | 
+|---------|---------------------|
+| Feb 09  | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
+| Feb 14  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
+| Feb 16  | [3.3 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-3/) |
+| Feb 21  | [3.4 Measurement]({{ site.baseurl }}/modules/mod3/s3-4/) |
+| Feb 23  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
+
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Does Zika cause microcephaly?](https://docs.google.com/document/d/1OWybG3XzOZa1qub9-5AfLcnfMqKIg6O3PqMUvBLue3M/edit?usp=sharing)                           | Oct 4  |
+| TBD  | Mar 2 |
 
 * * *
 
-### <a name="mod4"></a> Module 4 - Indicators and Data Colletion
+### <a name="mod4"></a> Module 4 - Sampling and Power
 
-#### IRA Requirements
+Now that you know how to ask an evidence-based research question and identify outcomes that you can define and measure, you are ready to think about the subjects of your research. Most often your research subjects—participants—will be people or places. You have two basic questions to answer about these participants: 
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapters 6-7 |
+1. How will you find, recruit, and select them? (sampling)
+2. How many do you need to include to meet your study objectives? (power)
+
+The goal of this module is to help you think through these two questions.
+
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1sI9aF5ujQNqlgyFWecJYFwY7Bz-4ZSzt52xk0syk-n0/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1sI9aF5ujQNqlgyFWecJYFwY7Bz-4ZSzt52xk0syk-n0/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Sept 29  | [4.1 Module Overview]({{ site.baseurl }}/modules/mod4/s4-1/)           | RA       |
-| Oct 4 | [4.2 Indicators]({{ site.baseurl }}/modules/mod4/s4-2/)  | AA       |
-| Oct 6 | [4.3 Methods of Data Collection]({{ site.baseurl }}/modules/mod4/s4-3/)          | AA       |
+| Date    | Session             | 
+|---------|---------------------|
+| Feb 28  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
+| Mar 02  | [4.2 Power and hypothesis testing]({{ site.baseurl }}/modules/mod4/s4-2/) |
+| Mar 07  | Review session |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| None                           | NA      |
+| TBD  | Mar 6 |
 
 * * *
 
-**Midterm Exam:** October 13
+**Mar 09**: In-class midterm
+
+**Mar 14/16**: No class, spring break
+
+<iframe src="//giphy.com/embed/l0HlAgJTVaAPHEGdy" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 * * *
 
-### <a name="mod5"></a> Module 5 - Sampling and Power
+### <a name="mod5"></a> Module 5 - Experimental and Quasi-Experimental Research Designs
 
-#### IRA Requirements
+Insert
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapters 8-9 (if available) |
-| Book | Running Randomized Evaluations, CH6 |
+#### Learning Objectives
+<iframe width="100%" height="200" <iframe src="https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Oct 18  | [5.1 Module Overview]({{ site.baseurl }}/modules/mod5/s5-1/)           | RA       |
-| Oct 20 | [5.2 Sampling]({{ site.baseurl }}/modules/mod5/s5-2/)          | AA       |
-| Oct 25 | [5.3 Power]({{ site.baseurl }}/modules/mod5/s5-3/)          | AA       |
-| Oct 27 | Power review          | Review       |
+| Date    | Session             | 
+|---------|---------------------|
+| Mar 21  | [5.1 RCT basics]({{ site.baseurl }}/modules/mod5/s5-1/) |
+| Mar 23  | [5.2 RCT threats]({{ site.baseurl }}/modules/mod5/s5-2/) |
+| Mar 28  | [5.3 Quasi-experimental: Pre/post, post-only, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
+| Mar 30  | [5.4 Quasi-experimental: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Designing a high powered study (AA 5.3)](http://www.designsandmethods.com/modules/mod5/s5-3/)             | Nov 3      |
+| TBD  | Apr 6 |
 
 * * *
 
-### <a name="mod6"></a> Module 6 - Non-Experimental Designs
+### <a name="mod6"></a> Module 6 - Observational and Qualitative Research Designs 
 
-#### IRA Requirements
+Insert
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapters 10-11 (if available) |
-| Book | Cummings et al. (2007). Designing a cohort study. In Hulley et al. Designing Clinical Research. Philadelphia, PA: Lippincott Williams & Wilkins |
-| Book | Newman et al. (2007). Designing cross-sectional and case-control studies. In Hulley et al. Designing Clinical Research. Philadelphia, PA: Lippincott Williams & Wilkins |
-| Book | Experimental and Quasi-Experimental Designs for Generalized Causal Inference, CH4-5 (skip case-control p128-134) |
-| Article | West, S. G., Duan, N., Pequegnat, W., Gaist, P., Des Jarlais, D. C., Holtgrave, D., ... & Mullen, P. D. (2008). Alternatives to the randomized controlled trial. [*American Journal of Public Health, 98(8)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2446460/), 1359-1366. |
-| Article | Moscoe, E., Bor, J., & Bärnighausen, T. (2015). Regression discontinuity designs are underutilized in medicine, epidemiology, and public health: a review of current and best practice. [*Journal of Clinical Epidemiology, 68(2)*](https://www.ncbi.nlm.nih.gov/pubmed/25579639), 122-133. |
-| Article | Lagarde, M. (2012). How to do (or not to do)… Assessing the impact of a policy change with routine longitudinal data. [*Health Policy and Planning, 27(1)*](https://www.ncbi.nlm.nih.gov/pubmed/21278077), 76-83. |
-| Article | Mohanan, M., Bauhoff, S., La Forgia, G., Babiarz, K. S., Singh, K., & Miller, G. (2014). Effect of Chiranjeevi Yojana on institutional deliveries and neonatal and maternal outcomes in Gujarat, India: a difference-in-differences analysis. [*Bulletin of the World Health Organization, 92(3)*](http://documents.worldbank.org/curated/pt/605381467991004645/Effect-of-Chiranjeevi-Yojana-on-institutional-deliveries-and-neonatal-and-maternal-outcomes-in-Gujarat-India-a-difference-in-differences-analysis), 187-194. |
-| Web | [STROBE guidelines](http://www.equator-network.org/reporting-guidelines/strobe/) |
-| Web | [TREND guidelines](http://www.cdc.gov/trendstatement/)
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1QLaS3KX4WFOWSwFPcpQ9HHylci3KDY0hAQP_KKfya1w/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1QLaS3KX4WFOWSwFPcpQ9HHylci3KDY0hAQP_KKfya1w/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-<!---
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Oct 27 | [6.1 Module overview]({{ site.baseurl }}/modules/mod6/s6-1/)          | RA       |
-| Nov 1 | [6.2 Observational Designs]({{ site.baseurl }}/modules/mod6/s6-2/)          | AA       |
-| Nov 3 | [6.3 Quasi-Experimental Designs]({{ site.baseurl }}/modules/mod6/s6-3/)          | AA       |
---->
-
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Nov 1 | 6.2 Observational Designs          | Lecture/AA       |
-| Nov 3 | Review session          | Review       |
-| Nov 8 | 6.3 Quasi-Experimental Designs          | Lecture/AA       |
+| Date    | Session             | 
+|---------|---------------------|
+| Apr 04  | [6.1 Case-control and cohort]({{ site.baseurl }}/modules/mod6/s6-1/) |
+| Apr 06  | [6.2 Case report, case series, and cross-sectional]({{ site.baseurl }}/modules/mod6/s6-2/) |
+| Apr 11  | [6.3 Ethnography and grounded theory]({{ site.baseurl }}/modules/mod6/s6-3/) |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and bednets: Part 1](https://docs.google.com/document/d/1rPiA_8HsqIUQovndFyUJj_coy5HWrTUYfB6gVetUG30/edit?usp=sharing)   | Nov 17   |
+| TBD  | Apr 18 |
 
 * * *
 
-### <a name="mod7"></a> Module 7 - Experimental Designs
+### <a name="mod7"></a> Module 7 - Producing Research and Making and Impact 
 
-#### IRA Requirements
+Insert
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | GHR Chapter 12 (if available) |
-| Video | [Duflo, E. (2010). Social Experiments to Fight Poverty](https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty?language=en) |
-| Book | Running Randomized Evaluations, CH2 |
-| Web | [CONSORT guideines](http://www.equator-network.org/reporting-guidelines/consort/) |
-| Article | Blattman, C., Green, E. P., Jamison, J., Lehmann, M. C., & Annan, J. (2016). The Returns to Microenterprise Support among the Ultrapoor: A Field Experiment in Postwar Uganda. [*American Economic Journal: Applied Economics, 8(2)*](https://www.poverty-action.org/sites/default/files/publications/The-Returns-to-Microenterprise-Support-among-the-Ultrapoor.pdf), 35-64. |
-| Article | Ashraf, N., Field, E., & Lee, J. (2014). Household bargaining and excess fertility: an experimental study in Zambia. [*The American Economic Review, 104(7)*](https://www.povertyactionlab.org/sites/default/files/publications/204_334%20Household%20Fertility%20Zambia%20AEJ2014.pdf), 2210-2237. |
+#### Learning Objectives
+<iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1OdxEGfjGiAMk6S1KwNESOZf3Ihk7S0T2RMymDGGgZk8/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+[Download as PDF](https://docs.google.com/spreadsheets/d/1OdxEGfjGiAMk6S1KwNESOZf3Ihk7S0T2RMymDGGgZk8/pub?gid=136777939&single=true&output=pdf)
 
 #### Class Sessions
 
-<!---
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Nov 8 | [7.1 Module overview]({{ site.baseurl }}/modules/mod7/s7-1/)          | RA       |
-| Nov 10 | [7.2 Basics]({{ site.baseurl }}/modules/mod7/s7-2/)          | AA       |
-| Nov 15 | [7.3 Extensions]({{ site.baseurl }}/modules/mod7/s7-3/)          | AA       |
---->
-
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Nov 10 | 7.2 Basics          | Lecture      |
-| Nov 15 | 7.3 Extensions          | Lecture    |
-| Nov 15 | [7.4 Applications]({{ site.baseurl }}/modules/mod7/s7-4/)          | AA    |
+| Date    | Session             | 
+|---------|---------------------|
+| Apr 13  | [7.1 Case-control and cohort]({{ site.baseurl }}/modules/mod7/s7-1/) |
+| Apr 18  | [7.2 Case report, case series, and cross-sectional]({{ site.baseurl }}/modules/mod7/s7-2/) |
+| Apr 20  | [7.3 Ethnography and grounded theory]({{ site.baseurl }}/modules/mod7/s7-3/) |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and bednets: Part 2](https://docs.google.com/document/d/1xX2vCICOw6CgIDlJz-k4BP7Ad22O10KeKJLaUU1WnhI/edit?usp=sharing)                           | Dec 1       |
+| None  | NA |
 
 * * *
 
-### <a name="mod8"></a> Module 8 - Producing Research
+**Apr 25**: Review
 
-#### IRA Requirements
+<iframe src="//giphy.com/embed/dB8nGbntTFXyg" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
-| Type | Required | 
-|------|--------|
-| Book and Videos | None |
-
-
-#### Class Sessions
-
-<!---
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Nov 17 | [8.1 Module overview]({{ site.baseurl }}/modules/mod8/s8-1/)          | RA       |
-| Nov 22 | [8.2 Planning a Study]({{ site.baseurl }}/modules/mod8/s8-2/)          | AA       |
-| Nov 29 | [8.3 Dissemination]({{ site.baseurl }}/modules/mod8/s8-3/)          | AA       |
-| Dec 1 | [8.4 Policy Impact]({{ site.baseurl }}/modules/mod8/s8-4/)          | AA       |
---->
-
-| Date    | Session             | In-class |
-|---------|---------------------|----------|
-| Nov 22 | 8.1 Planning a Study      | AA       |
-| Nov 29 | 8.2 Dissemination         | AA       |
-| Dec 1 | 8.3 Policy Impact          | AA       |
-
-#### Homework
-
-| Assignment                    | Due Date |
-|-------------------------------|----------|
-| None                          | NA       |
-
-
+**May 02, 7-10pm**: Final Exam
