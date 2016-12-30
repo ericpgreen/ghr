@@ -25,7 +25,7 @@ The goal of this module is to (re)introduce you to the fundamentals of scientifi
 | Jan 17  | [1.2 Research 101]({{ site.baseurl }}/modules/mod1/s1-2/) |
 | Jan 19  | [1.3 Tools of the trade]({{ site.baseurl }}/modules/mod1/s1-3/) |
 
-<br>
+<p></p>
 
 #### Homework
 
