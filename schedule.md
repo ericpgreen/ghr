@@ -201,9 +201,9 @@ Insert
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 13  | [7.1 Case-control and cohort]({{ site.baseurl }}/modules/mod7/s7-1/) |
-| Apr 18  | [7.2 Case report, case series, and cross-sectional]({{ site.baseurl }}/modules/mod7/s7-2/) |
-| Apr 20  | [7.3 Ethnography and grounded theory]({{ site.baseurl }}/modules/mod7/s7-3/) |
+| Apr 13  | [7.1 Writing proposals and mauscripts]({{ site.baseurl }}/modules/mod7/s7-1/) |
+| Apr 18  | [7.2 Economic analyses]({{ site.baseurl }}/modules/mod7/s7-2/) |
+| Apr 20  | [7.3 From research to policy impact]({{ site.baseurl }}/modules/mod7/s7-3/) |
 
 <p></p>
 
