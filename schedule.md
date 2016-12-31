@@ -113,7 +113,6 @@ The goal of this module is to help you think through these two questions.
 |---------|---------------------|
 | Feb 28  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
 | Mar 02  | [4.2 Power and hypothesis testing]({{ site.baseurl }}/modules/mod4/s4-2/) |
-| Mar 07  | Review session |
 
 <p></p>
 
@@ -124,6 +123,8 @@ The goal of this module is to help you think through these two questions.
 | TBD  | Mar 6 |
 
 * * *
+
+**Mar 07**: Review session
 
 **Mar 09**: In-class midterm
 
@@ -188,7 +189,7 @@ Insert
 
 * * *
 
-### <a name="mod7"></a> Module 7 - Producing Research and Making and Impact 
+### <a name="mod7"></a> Module 7 - Producing Research and Making an Impact 
 
 Insert
 
