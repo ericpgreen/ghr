@@ -10,6 +10,7 @@
 p.caption {
   color: #777;
   margin-top: 10px;
+  padding: 0px 0px 40px 0px;
 }
 p code {
   white-space: inherit;
@@ -201,9 +202,9 @@ pre code {
 
 
  .rmdplay {
-  padding: 1em 1em 1em 4em;
+  padding: 3em 1em 1em 3em;
   margin-bottom: 10px;
-  background: #f5f5f5;
+  background: #bb0000;
   position:relative;
 }
 
@@ -212,9 +213,27 @@ pre code {
     font-family: FontAwesome;
     left:10px;
     position:absolute;
+    top:-10px;
+    font-size: 55px;
+    color:white;
+ }
+
+.rmdplay2 {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #f5f5f5;
+  position:relative;
+}
+
+  .rmdplay2:before {
+    content: "\f16a";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
     top:0px;
     font-size: 45px;
  }
+
 
  .rmdexercise {
   padding: 1em 1em 1em 4em;
