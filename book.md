@@ -14,7 +14,7 @@ subtitle: Designs and Methods
 
 Just click on the image above. The text is only available online for now since this book is a work in progress. 
 
-If you find errors (gasp!), please create an issue on [Github](https://github.com/ericpgreen/GHRbook), [email me](eric.green@duke.edu), or shame me on Twitter (`@ericpgreen`). I'm writing the book in [R Markdown](http://rmarkdown.rstudio.com/) within [RStudio](https://www.rstudio.com/). The [`bookdown'](https://github.com/rstudio/bookdown) package from the makers of RStudio does most of the heavy lifting to compile the book. The source code for the book is available on [Github](https://github.com/ericpgreen/GHRbook).
+If you find errors (gasp!), please create an issue on [Github](https://github.com/ericpgreen/GHRbook), [email me](eric.green@duke.edu), or shame me on Twitter (`@ericpgreen`). I'm writing the book in [R Markdown](http://rmarkdown.rstudio.com/) within [RStudio](https://www.rstudio.com/). The [`bookdown`](https://github.com/rstudio/bookdown) package from the makers of RStudio does most of the heavy lifting to compile the book. The source code for the book is available on [Github](https://github.com/ericpgreen/GHRbook).
 
 ### About the Cover
 
