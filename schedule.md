@@ -10,7 +10,7 @@ subtitle: Spring 2017
 
 ### <a name="mod1"></a> Module 1 - Introduction to Global Health Research
 
-The goal of this module is to (re)introduce you to the fundamentals of scientific research from a global health perspective. 
+The goal of this module is to introduce you to global health research, describe the characteristics of scientific research, and preview the stages of the research process that we will explore in more depth this semester. 
 
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1JMweua7_Thpbejroztattu90uGWE3Pfas0pssPQj_3w/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -37,7 +37,7 @@ The goal of this module is to (re)introduce you to the fundamentals of scientifi
 
 ### <a name="mod2"></a> Module 2 - Critical Appraisal
 
-The goal of this module is to help you become a better consumer of research. This means learning how to search and evaluate the literature. 
+The goal of this module is to help you become a better consumer of research. This means learning how to search and evaluate the literature and claims of causality.
 
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1NF8zC2prztMOHEFlFgLJR-FJvI6L6yMqrUKrc8AUEzY/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -157,7 +157,7 @@ The goal of this module is to help you think through these two questions.
 
 ### <a name="mod5"></a> Module 5 - Experimental and Quasi-Experimental Research Designs
 
-Insert
+The goal of this module is to teach you about the strengths and limitations of experimental designs and to introduce you to quasi-experimental designs that you can use for making causal inferences when random assignment is not possible. 
 
 <!---
 #### Learning Objectives
@@ -170,16 +170,16 @@ Insert
 
 | Date    | Session             | 
 |---------|---------------------|
-| Mar 21  | 5.1 RCT basics |
-| Mar 23  | 5.2 RCT threats |
+| Mar 21  | 5.1 Randomized controlled trials |
+| Mar 23  | 5.2 Analysis of RCTs |
 | Mar 28  | 5.3 Quasi: Pre/post, difference-in-differences, regression |
 | Mar 30  | 5.4 Quasi: Regression discontinuity, interrupted time series |
 
 <!---
 | Date    | Session             | 
 |---------|---------------------|
-| Mar 21  | [5.1 RCT basics]({{ site.baseurl }}/modules/mod5/s5-1/) |
-| Mar 23  | [5.2 RCT threats]({{ site.baseurl }}/modules/mod5/s5-2/) |
+| Mar 21  | [5.1 Randomized controlled trials]({{ site.baseurl }}/modules/mod5/s5-1/) |
+| Mar 23  | [5.2 Analysis of RCTs]({{ site.baseurl }}/modules/mod5/s5-2/) |
 | Mar 28  | [5.3 Quasi: Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
 | Mar 30  | [5.4 Quasi: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
 --->
@@ -196,7 +196,7 @@ Insert
 
 ### <a name="mod6"></a> Module 6 - Observational and Qualitative Research Designs 
 
-Insert
+The goal of this module is teach you how to use observational and qualitative designs to describe health phenomena and to triangulate evidence suggestive of a causal relationship between an exposure and an outcome.
 
 <!---
 #### Learning Objectives
@@ -233,7 +233,7 @@ Insert
 
 ### <a name="mod7"></a> Module 7 - Producing Research and Making an Impact 
 
-Insert
+The goal of this module is to help you understand how research is produced and, with advance planning, can make an impact on policies and programs.
 
 <!---
 #### Learning Objectives
@@ -246,14 +246,14 @@ Insert
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 13  | 7.1 Writing proposals and mauscripts |
+| Apr 13  | 7.1 Writing proposals and manuscripts |
 | Apr 18  | 7.2 Economic analyses |
 | Apr 20  | 7.3 From research to policy impact |
 
 <!---
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 13  | [7.1 Writing proposals and mauscripts]({{ site.baseurl }}/modules/mod7/s7-1/) |
+| Apr 13  | [7.1 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod7/s7-1/) |
 | Apr 18  | [7.2 Economic analyses]({{ site.baseurl }}/modules/mod7/s7-2/) |
 | Apr 20  | [7.3 From research to policy impact]({{ site.baseurl }}/modules/mod7/s7-3/) |
 --->
