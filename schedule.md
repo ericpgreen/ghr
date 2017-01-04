@@ -68,13 +68,24 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 The goal of this module is to introduce you to global health indicators, methods of data collection, and issues of measurement that you must consider when designing a study.
 
+<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pub?gid=136777939&single=true&output=pdf)
+--->
 
 #### Class Sessions
 
+| Date    | Session             | 
+|---------|---------------------|
+| Feb 09  | 3.1 Developing a theory of change |
+| Feb 14  | 3.2 Global health indicators |
+| Feb 16  | 3.3 Quantitative methods of data collection |
+| Feb 21  | 3.4 Measurement |
+| Feb 23  | 3.5 Qualitative methods of data collection |
+
+<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Feb 09  | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
@@ -82,6 +93,7 @@ The goal of this module is to introduce you to global health indicators, methods
 | Feb 16  | [3.3 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-3/) |
 | Feb 21  | [3.4 Measurement]({{ site.baseurl }}/modules/mod3/s3-4/) |
 | Feb 23  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
+--->
 
 <p></p>
 
@@ -102,17 +114,26 @@ Now that you know how to ask an evidence-based research question and identify ou
 
 The goal of this module is to help you think through these two questions.
 
+<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1sI9aF5ujQNqlgyFWecJYFwY7Bz-4ZSzt52xk0syk-n0/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1sI9aF5ujQNqlgyFWecJYFwY7Bz-4ZSzt52xk0syk-n0/pub?gid=136777939&single=true&output=pdf)
+--->
 
 #### Class Sessions
 
 | Date    | Session             | 
 |---------|---------------------|
+| Feb 28  | 4.1 Sampling |
+| Mar 02  | 4.2 Power and hypothesis testing |
+
+<!---
+| Date    | Session             | 
+|---------|---------------------|
 | Feb 28  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
 | Mar 02  | [4.2 Power and hypothesis testing]({{ site.baseurl }}/modules/mod4/s4-2/) |
+--->
 
 <p></p>
 
@@ -138,19 +159,30 @@ The goal of this module is to help you think through these two questions.
 
 Insert
 
+<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1xdcWJkqlVCTyun5wkGbFqMKvH1kV8FHNYpQKRL-eQpI/pub?gid=136777939&single=true&output=pdf)
+--->
 
 #### Class Sessions
 
+| Date    | Session             | 
+|---------|---------------------|
+| Mar 21  | 5.1 RCT basics |
+| Mar 23  | 5.2 RCT threats |
+| Mar 28  | 5.3 Quasi: Pre/post, difference-in-differences, regression |
+| Mar 30  | 5.4 Quasi: Regression discontinuity, interrupted time series |
+
+<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Mar 21  | [5.1 RCT basics]({{ site.baseurl }}/modules/mod5/s5-1/) |
 | Mar 23  | [5.2 RCT threats]({{ site.baseurl }}/modules/mod5/s5-2/) |
 | Mar 28  | [5.3 Quasi: Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
 | Mar 30  | [5.4 Quasi: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
+--->
 
 <p></p>
 
@@ -166,18 +198,28 @@ Insert
 
 Insert
 
+<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1QLaS3KX4WFOWSwFPcpQ9HHylci3KDY0hAQP_KKfya1w/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1QLaS3KX4WFOWSwFPcpQ9HHylci3KDY0hAQP_KKfya1w/pub?gid=136777939&single=true&output=pdf)
+--->
 
 #### Class Sessions
 
+<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Apr 04  | [6.1 Case-control and cohort]({{ site.baseurl }}/modules/mod6/s6-1/) |
 | Apr 06  | [6.2 Case report, case series, and cross-sectional]({{ site.baseurl }}/modules/mod6/s6-2/) |
 | Apr 11  | [6.3 Ethnography and grounded theory]({{ site.baseurl }}/modules/mod6/s6-3/) |
+--->
+
+| Date    | Session             | 
+|---------|---------------------|
+| Apr 04  | 6.1 Case-control and cohort |
+| Apr 06  | 6.2 Case report, case series, and cross-sectional |
+| Apr 11  | 6.3 Ethnography and grounded theory |
 
 <p></p>
 
@@ -193,18 +235,28 @@ Insert
 
 Insert
 
+<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1OdxEGfjGiAMk6S1KwNESOZf3Ihk7S0T2RMymDGGgZk8/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1OdxEGfjGiAMk6S1KwNESOZf3Ihk7S0T2RMymDGGgZk8/pub?gid=136777939&single=true&output=pdf)
+--->
 
 #### Class Sessions
 
 | Date    | Session             | 
 |---------|---------------------|
+| Apr 13  | 7.1 Writing proposals and mauscripts |
+| Apr 18  | 7.2 Economic analyses |
+| Apr 20  | 7.3 From research to policy impact |
+
+<!---
+| Date    | Session             | 
+|---------|---------------------|
 | Apr 13  | [7.1 Writing proposals and mauscripts]({{ site.baseurl }}/modules/mod7/s7-1/) |
 | Apr 18  | [7.2 Economic analyses]({{ site.baseurl }}/modules/mod7/s7-2/) |
 | Apr 20  | [7.3 From research to policy impact]({{ site.baseurl }}/modules/mod7/s7-3/) |
+--->
 
 <p></p>
 
