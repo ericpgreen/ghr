@@ -46,9 +46,9 @@ pre code {
     color: white;
  }
 
- .rmdcomment a:link {text-decoration: underline; font-weight:bold; color=white;}
- .rmdcomment a:visited {text-decoration: underline; font-weight:bold; color=white;}
- .rmdcomment a:hover {text-decoration: underline; font-weight:bold; color=white;}
+ .rmdcomment a:link {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdcomment a:visited {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdcomment a:hover {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
 
 
  .rmdasterisk {
@@ -135,6 +135,10 @@ pre code {
     color:white;
  }
 
+ .rmdtip a:link {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdtip a:visited {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdtip a:hover {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+
   .rmdlightbulb {
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
@@ -156,7 +160,7 @@ pre code {
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
   margin-bottom: 30px;
-  background: #9BD350;
+  background: #94CF67;
   position:relative;
   color:white;
 }
@@ -170,6 +174,10 @@ pre code {
     font-size: 45px;
     color:white;
  }
+
+ .rmdpuzzle a:link {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdpuzzle a:visited {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdpuzzle a:hover {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
 
  .rmdthumb {
   padding: 1em 1em 1em 4em;
@@ -240,6 +248,7 @@ pre code {
     color:white;
  }
 
+
 .rmdplay2 {
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
@@ -258,7 +267,6 @@ pre code {
     font-size: 45px;
     color:white;
  }
-
 
  .rmdexercise {
   padding: 1em 1em 1em 4em;
@@ -281,7 +289,7 @@ pre code {
   padding: 1em 1em 1em 4em;
   margin-top: 30px;
   margin-bottom: 30px;
-  background: #BB67DE;
+  background: #6781CF;
   position:relative;
   color:white;
 }
@@ -295,6 +303,10 @@ pre code {
     font-size: 45px;
     color:white;
  }
+
+ .rmdshiny a:link {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdshiny a:visited {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
+ .rmdshiny a:hover {text-decoration: underline !important; font-weight:bold !important; color:white !important;}
 
 li.part span {
   opacity: 1;
