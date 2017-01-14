@@ -50,8 +50,8 @@ The goal of this module is to help you become a better consumer of research. Thi
 |---------|---------------------|
 | Jan 24  | 2.1 Systematic reviews and meta-analyses |
 | Jan 26  | 2.2 Searching the literature |
-| Jan 31  | 2.3 Critical appraisal |
-| Feb 02  | No class |
+| Jan 31  | No class |
+| Feb 02  | 2.3 Critical appraisal |
 | Feb 07  | 2.4 Evaluating claims of causality |
 
 <!---
