@@ -48,7 +48,7 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 | Date    | Session             | 
 |---------|---------------------|
-| Jan 24  | 2.1 Systematic reviews and meta-analyses |
+| Jan 24  | [2.1 Systematic reviews and meta-analyses]({{ site.baseurl }}/modules/mod2/s2-1/) |
 | Jan 26  | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/) |
 | Jan 31  | No class |
 | Feb 02  | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/) |
@@ -81,8 +81,8 @@ The goal of this module is to introduce you to global health indicators, methods
 |---------|---------------------|
 | Feb 09  | 3.1 Developing a theory of change |
 | Feb 14  | 3.2 Global health indicators |
-| Feb 16  | 3.3 Quantitative methods of data collection |
-| Feb 21  | 3.4 Measurement |
+| Feb 16  | 3.3 Measurement | 
+| Feb 21  | 3.4 Quantitative methods of data collection |
 | Feb 23  | 3.5 Qualitative methods of data collection |
 
 <!---
@@ -90,8 +90,8 @@ The goal of this module is to introduce you to global health indicators, methods
 |---------|---------------------|
 | Feb 09  | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
 | Feb 14  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
-| Feb 16  | [3.3 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-3/) |
-| Feb 21  | [3.4 Measurement]({{ site.baseurl }}/modules/mod3/s3-4/) |
+| Feb 16  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
+| Feb 21  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
 | Feb 23  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
 --->
 
