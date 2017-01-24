@@ -68,24 +68,13 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 The goal of this module is to introduce you to global health indicators, methods of data collection, and issues of measurement that you must consider when designing a study.
 
-<!---
 #### Learning Objectives
 <iframe width="100%" height="200" src="https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pubhtml?gid=136777939&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [Download as PDF](https://docs.google.com/spreadsheets/d/1umtaOjxFc5AmRmAa_f1tgKKs4rq28F6Yik6sm0WYBUg/pub?gid=136777939&single=true&output=pdf)
---->
 
 #### Class Sessions
 
-| Date    | Session             | 
-|---------|---------------------|
-| Feb 09  | 3.1 Developing a theory of change |
-| Feb 14  | 3.2 Global health indicators |
-| Feb 16  | 3.3 Measurement | 
-| Feb 21  | 3.4 Quantitative methods of data collection |
-| Feb 23  | 3.5 Qualitative methods of data collection |
-
-<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Feb 09  | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
@@ -93,7 +82,6 @@ The goal of this module is to introduce you to global health indicators, methods
 | Feb 16  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
 | Feb 21  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
 | Feb 23  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
---->
 
 <p></p>
 
