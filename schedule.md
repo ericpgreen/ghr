@@ -60,7 +60,7 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| Asking a question and searching the literature  | Feb 14 |
+| [Asking a question and searching the literature](https://drive.google.com/file/d/0Bxn_jkXZ1lxuR19MSm45Vkx5NUU/view?usp=sharing)  | Feb 14 |
 
 * * *
 
