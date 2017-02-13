@@ -7,26 +7,26 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Global Health Research: Designs and Methods</title>
   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-  <meta name="description" content="Global Health Research: Designs and Methods">
+  <meta name="description" content="Online textbook about global health research methods">
   <meta name="generator" content="bookdown 0.3 and GitBook 2.6.7">
 
   <meta property="og:title" content="Global Health Research: Designs and Methods" />
   <meta property="og:type" content="book" />
+  <meta property="og:url" content="http://designsandmethods.com/ebook/" />
   
-  
-  
+  <meta property="og:description" content="Online textbook about global health research methods" />
   
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Global Health Research: Designs and Methods" />
   
-  
+  <meta name="twitter:description" content="Online textbook about global health research methods" />
   
 
 <meta name="author" content="Eric P. Green">
 
 
-<meta name="date" content="2017-02-01">
+<meta name="date" content="2017-02-12">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -846,13 +846,14 @@ This is a measure of how much more likely a negative test result occurs in peopl
 <iframe src="https://www.youtube.com/embed/UF1T7KzRnrs" width="672" height="400px">
 </iframe>
 <p>In the sensitivity and specificity calculations shown above, the example cutoff score for depression on the BDI-II was set to 15. To determine if 15 is the best cut point, we could calculate the sensitivity and specificity again for several different cutoff points and plot the relationship in a <strong>receiver operating characteristic</strong> (ROC) curve. ROC curves plot sensitivity (the true positive rate) against 1 minus specificity for a range of different cutoff points. For instance, the figure below shows the ROC curve presented in <span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span>.</p>
-<div class="figure"><span id="fig:roc"></span>
-<img src="images/JIAS-17-18965-g001.jpg" alt="Receiver operating characteristic (ROC) curve for the BDI-II and CDI-II-S as compared to the CDRS-R. Source: @kim:2014. Circle annotation added."  />
-<p class="caption">
-Figure 7.9: Receiver operating characteristic (ROC) curve for the BDI-II and CDI-II-S as compared to the CDRS-R. Source: <span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span>. Circle annotation added.
+<div class="rmdshiny">
+<p>
+Receiver operating characteristic (ROC) curve for the BDI-II and CDI-II-S as compared to the CDRS-R. Source: <span class="citation"><span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span></span>.
 </p>
 </div>
-<p>The best cutoff is typically the one that maximizes sensitivity and specificity.<a href="#fn38" class="footnoteRef" id="fnref38"><sup>38</sup></a> In a ROC curve, this is the point that is closest to the top left of the graph—sensitivity of 1 and (1-specificity) of 0. In <span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span>, the optimal cutoff did indeed turn out to be 15.</p>
+<iframe src="https://globalhealthresearch.shinyapps.io/ROC-curve/?showcase=0" width="672" height="750px">
+</iframe>
+<p>The best cutoff is typically the one that maximizes sensitivity and specificity.<a href="#fn38" class="footnoteRef" id="fnref38"><sup>38</sup></a> In a ROC curve, this is the point that is closest to the top left of the graph—sensitivity of 1 and (1-specificity) of 0. In <span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span>, the optimal cutoff did indeed turn out to be 15.</p>
 <p>To evaluate the overall accuracy of the test, we can calculate the <strong>area under the ROC curve</strong> (AUC). In <span class="citation">Kim et al. (<a href="#ref-kim:2014">2014</a>)</span>, the AUC for the BDI-II is 0.82, generally considered to be an accurate benchmark (1=perfect; 0.5=worthless). The BDI-II performs better than an alternative screening instrument also assessed in this study called the Children’s Depression Inventory-II-Short (CDI-II-S); AUC=0.75.</p>
 <div class="rmdpuzzle">
 <p>
@@ -870,7 +871,7 @@ Figure 7.9: Receiver operating characteristic (ROC) curve for the BDI-II and CDI
 <div class="figure"><span id="fig:process"></span>
 <img src="images/patellogic.png" alt="Indicators throughout the causal chain."  />
 <p class="caption">
-Figure 7.10: Indicators throughout the causal chain.
+Figure 7.9: Indicators throughout the causal chain.
 </p>
 </div>
 <div id="inputs" class="section level3">
