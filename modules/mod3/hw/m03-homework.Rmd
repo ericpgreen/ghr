@@ -1,0 +1,18 @@
+---
+title: "Module 3 Homework "
+output: html_notebook
+---
+
+This R notebook accompanies the Module 3 homework assignment for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/).
+
+## Import
+
+
+```{r}
+# install.packages("RCurl")
+  library(RCurl)
+  URL <- "https://docs.google.com/spreadsheets/d/1ITZGemzqi4P9_N_r3e8M4X5WhDIsTGnMcs3YnNfwXto/pub?gid=0&single=true&output=csv"
+  x <- getURL(URL)
+  dat <- read.csv(textConnection(x))
+```
+
