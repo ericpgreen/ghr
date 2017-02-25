@@ -89,7 +89,7 @@ The goal of this module is to introduce you to global health indicators, methods
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBD  | Mar 2 |
+| [From research questions to study measurement](https://drive.google.com/file/d/0Bxn_jkXZ1lxuYVBOYVpSNmN2ZTA/view?usp=sharing)  | Mar 6 |
 
 * * *
 
