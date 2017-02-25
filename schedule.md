@@ -111,17 +111,17 @@ The goal of this module is to help you think through these two questions.
 
 #### Class Sessions
 
+<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Feb 28  | 4.1 Sampling |
 | Mar 02  | 4.2 Power and hypothesis testing |
+--->
 
-<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Feb 28  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
 | Mar 02  | [4.2 Power and hypothesis testing]({{ site.baseurl }}/modules/mod4/s4-2/) |
---->
 
 <p></p>
 
