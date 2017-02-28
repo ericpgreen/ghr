@@ -82,6 +82,7 @@ Before we jump into samples of the data, let's examine the population. We'll con
                             dat$marst=="Married, spouse absent" |
                             dat$marst=="Married, spouse present" |
                             dat$marst=="Widowed", 1, 0)
+
 # convert age variable from categorical to numeric
 # make some simplifying assumptions about age categories
   dat$ageN <- ifelse(dat$age=="100 (100+ in 1960-1970)", 100,
@@ -116,12 +117,14 @@ Now let's begin drawing **two** random samples. Use the following code to draw t
 ```{r}
 # sample
   n <- 100
+
 # 100 (a)  
   set.seed(1)
   s100a <- dat15[sample(1:nrow(dat15), n, replace=FALSE),]
   singleCt100a <- table(s100a$marst)[names(table(s100a$marst))=="Never married/single"]
   singleP100a <- singleCt100a/n
   singleP100a
+
 # 100 (b)
   set.seed(2)
   s100b <- dat15[sample(1:nrow(dat15), n, replace=FALSE),]
@@ -158,44 +161,61 @@ Run the following code and record your results (mean proportion, standard error,
 ```{r}
 # error
   n <- 100
+
 # create sample
   set.seed(1)
   s <- dat15[sample(1:nrow(dat15), n, replace=FALSE),]
   singleCt <- table(s$marst)[names(table(s$marst))=="Never married/single"]
   singleP <- singleCt/n
   print(paste0("When N is ", n, ": Mean proportion=", rd3(singleP)))
+
 # standard error and 95% confidence intervals
   se <- sqrt((singleP*(1-singleP))/n)         # standard error
   print(paste0("When N is ", n, ": Standard error=", rd3(se)))
+  
   me95CI <- 1.96*se                           # margin of error
   print(paste0("When N is ", n, ": Margin of error=", rd3(me95CI)))
+  
   CI95l <- singleP - me95CI                   # lower 95% CI
   print(paste0("When N is ", n, ": Lower 95% CI=", rd3(CI95l)))
+  
   CI95u <- singleP + me95CI                   # upper 95% CI
   print(paste0("When N is ", n, ": Upper 95% CI=", rd3(CI95u)))
+  
   widthCI <- CI95u - CI95l                    # width of CI
   print(paste0("When N is ", n, ": Width of 95% CI=", rd3(widthCI)))
 ```
 
-Do the same sequence of draws for age.
+Do the same sequence of draws for age (we'll go back to using the entire NC population, not the age restricted one).
+
+```{r}
+  ageMPop <- mean(dat$ageN)
+```
+The mean age of the 1880 NC population was `r rd1(ageMPop)`.
 
 ```{r}
 # error
   n <- 100
+
 # create sample
   set.seed(1)
-  s <- dat15[sample(1:nrow(dat15), n, replace=FALSE),]
+  s <- dat[sample(1:nrow(dat), n, replace=FALSE),]
   ageM <- mean(s$ageN)
   print(paste0("When N is ", n, ": Mean age=", rd2(ageM)))
+
 # standard error and 95% confidence intervals
   se <- sd(s$ageN)/sqrt(n)                    # standard error
   print(paste0("When N is ", n, ": Standard error=", rd2(se)))
+  
   me95CI <- 1.96*se                           # margin of error
   print(paste0("When N is ", n, ": Margin of error=", rd2(me95CI)))
+  
   CI95l <- ageM - me95CI                   # lower 95% CI
   print(paste0("When N is ", n, ": Lower 95% CI=", rd2(CI95l)))
+  
   CI95u <- ageM + me95CI                   # upper 95% CI
   print(paste0("When N is ", n, ": Upper 95% CI=", rd2(CI95u)))
+  
   widthCI <- CI95u - CI95l                    # width of CI
   print(paste0("When N is ", n, ": Width of 95% CI=", rd2(widthCI)))
 ```
