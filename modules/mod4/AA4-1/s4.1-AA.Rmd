@@ -43,7 +43,7 @@ Examine the data by running head(dat). This will show you the first 6 rows of th
 head(dat)
 ```
 
-The definitions of key variables are shown in the table below. See this enumeration form to understand what citizens were asked back in 1880. These instructions indicate how enumerators were trained to gather this information.
+The definitions of key variables are shown in the table below. See [this enumeration form](https://www.nappdata.org/napp-action/source_documents/enum_form_us1880a_tag.xml) to understand what citizens were asked back in 1880. [These instructions](https://www.nappdata.org/napp-action/source_documents/enum_instruct_us1880a_tag.xml) indicate how enumerators were trained to gather this information.
 
 | Variable | Definition |
 |:---------|:-----------|
