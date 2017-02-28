@@ -1,6 +1,8 @@
 ---
 title: "Session 4.1 Application Activity"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 This R notebook accompanies the [Session 4.1 application activity](http://www.designsandmethods.com/modules/mod4/s4-1/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
@@ -21,7 +23,7 @@ This first code chunk will check to make sure you have all of the required packa
   library(data.table)
   library(httr)
 # document setttings
-  knitr::opts_chunk$set(results='hide')  # put a pound sign before this line
+  knitr::opts_chunk$set(results='show')  
 # rounding functions
   rd0 <- function(y) sprintf("%.0f", round(y, 0))
   rd1 <- function(y) sprintf("%.1f", round(y, 1))
