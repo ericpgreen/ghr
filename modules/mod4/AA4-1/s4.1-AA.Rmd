@@ -3,7 +3,7 @@ title: "Session 4.1 Application Activity"
 output: html_notebook
 ---
 
-This R notebook accompanies the Session 4.1 application activity for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
+This R notebook accompanies the [Session 4.1 application activity](http://www.designsandmethods.com/modules/mod4/s4-1/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
 
 1. If you downloaded and installed R and RStudio, you can open this file with RStudio.
 2. The easier option is to login to your 'virtual' RStudio environment on Duke's server. Go [here](https://vm-manage.oit.duke.edu/), enter your credentials, and follow the `Docker` link to the option to launch RStudio. Once RStudio is running in your browser, go to the `Files` tab and `Upload` the `Rmd` file. Open it.
@@ -33,13 +33,38 @@ Let's start by importing the data.
   dat <- fread(f[1])
 ```
 
-If this chunk ran successfully, you will have a dataframe called `dat` in your `Environment` tab. Let's take a quick peek:
+If this chunk ran successfully, you will have a dataframe called `dat` in your `Environment` tab.
+
+## Examine the data
+
+Examine the data by running head(dat). This will show you the first 6 rows of the dataset. The first several variables are household-level variables, so the values are the same for every member of the household. Starting with gender, the remaining variables are measured for each individual in the household.
 
 ```{r}
 head(dat)
 ```
 
-## Examine the data
+The definitions of key variables are shown in the table below. See this enumeration form to understand what citizens were asked back in 1880. These instructions indicate how enumerators were trained to gather this information.
+
+| Variable | Definition |
+|:---------|:-----------|
+| serial   | a unique identifier for households |
+| numperhh | the number of people residing in each household |
+| region   | census region |
+| statefip | state |
+| urban    | urban or rural classification |
+| farm     | farm household |
+| sex      | gender of person |
+| age      | age of person |
+| marst    | marital status |
+| race     | race |
+| nativity | birthplace of self and parents |
+| labforce | labor force status |
+
+There are 1,401,478 observations in the dataset, but the official tabulation comes in slightly below this at 1,399,750. Rather than dig through the notes to determine the source of the discrepancy, we'll go with the data file.
+
+![Table 2](pop2.png)
+
+## Sampling Error
 
 The first thing we want to do is determine the proportion of single, never married individuals in the population. Note this on your AA sheet.
 
@@ -51,7 +76,7 @@ The first thing we want to do is determine the proportion of single, never marri
   singleP
 ```
 
-Next, we can begin drawing random samples. Use the following code to draw two random samples of 100 observations each and calculate the proportion of single, never married women in each sample. Record the results in your Google Doc. What is the lesson about sampling to draw from this?
+Next, we can begin drawing random samples. Use the following code to draw two random samples of 100 observations each and calculate the proportion of single, never married women in each sample. Record the results on your AA sheet. What is the lesson about sampling to draw from this?
 
 ```{r, results='hide'}
 # sample
@@ -70,7 +95,7 @@ Next, we can begin drawing random samples. Use the following code to draw two ra
   singleP100b
 ```
 
-Now let's draw 10,000 samples. Run the code in the block below and write down your prediction about the shape and center of the distribution of all 10,000 sample proportions. Once you guess, then run hist(singleSamples) and check your prediction.
+Now let's draw 10,000 samples. Run the code in the block below and write down your prediction about the shape and center of the distribution of all 10,000 sample proportions. Once you guess, then run `hist(singleSamples)` and check your prediction.
 
 ```{r, results='hide'}
 # 10000 samples
