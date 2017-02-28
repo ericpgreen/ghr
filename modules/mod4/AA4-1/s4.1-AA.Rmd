@@ -21,7 +21,7 @@ This first code chunk will check to make sure you have all of the required packa
   library(data.table)
   library(httr)
 # document setttings
-  knitr::opts_chunk$set(result='hide')  # put a pound sign before this line
+  knitr::opts_chunk$set(results='hide')  # put a pound sign before this line
 # rounding functions
   rd0 <- function(y) sprintf("%.0f", round(y, 0))
   rd1 <- function(y) sprintf("%.1f", round(y, 1))
