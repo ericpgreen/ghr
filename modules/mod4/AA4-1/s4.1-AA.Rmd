@@ -1,8 +1,8 @@
 ---
 title: "Session 4.1 Application Activity"
 output:
-  pdf_document: default
   html_notebook: default
+  pdf_document: default
 ---
 
 This R notebook accompanies the [Session 4.1 application activity](http://www.designsandmethods.com/modules/mod4/s4-1/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
@@ -12,7 +12,7 @@ This R notebook accompanies the [Session 4.1 application activity](http://www.de
 
 ## Setup
 
-This first code chunk will check to make sure you have all of the required packages. Put a `#` sign before the word `knitr::opts_chunk$` to turn off (aka, 'comment out') my command to suppress the output.
+This first code chunk will check to make sure you have all of the required packages.
 
 ```{r, message=FALSE}
 # packages
@@ -72,8 +72,6 @@ The definitions of key variables are shown in the table below. See [this enumera
 
 There are 1,401,478 observations in the dataset, but the official tabulation comes in slightly below this at 1,399,750. Rather than dig through the notes to determine the source of the discrepancy, we'll go with the data file.
 
-![Table 1a](pop2.png)
-
 ## Population
 
 Before we jump into samples of the data, let's examine the population. We'll construct an indicator for people are currently or formerly married (`everMarred`). We'll also convert the categorical age variable to numeric.
@@ -110,7 +108,7 @@ Next, let's determine the proportion of single, never married individuals in the
   singleP
 ```
 
-For the purpose of this activity, let's take this value, `r singleP`, as the "truth". This is the true proportion of adults (≧15 years) that was reported to be single, never married when the census was conducted. 
+For the purpose of this activity, let's take this value, `r singleP`, as the "truth". This is the true proportion of adults (>=15 years) that was reported to be single, never married when the census was conducted. 
 
 ## Simple Random Sampling
 
