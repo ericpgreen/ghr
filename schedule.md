@@ -129,7 +129,7 @@ The goal of this module is to help you think through these two questions.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBD  | Mar 7 |
+| [Sampling: How and How Many?](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVTRjeUZqWmhjaVk/view?usp=sharing)  | Mar 28 |
 
 * * *
 
@@ -156,21 +156,22 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 #### Class Sessions
 
+<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Mar 21  | 5.1 Randomized controlled trials |
 | Mar 23  | 5.2 Analysis of RCTs |
 | Mar 28  | 5.3 Quasi: Pre/post, difference-in-differences, regression |
 | Mar 30  | 5.4 Quasi: Regression discontinuity, interrupted time series |
+--->
 
-<!---
 | Date    | Session             | 
 |---------|---------------------|
 | Mar 21  | [5.1 Randomized controlled trials]({{ site.baseurl }}/modules/mod5/s5-1/) |
 | Mar 23  | [5.2 Analysis of RCTs]({{ site.baseurl }}/modules/mod5/s5-2/) |
 | Mar 28  | [5.3 Quasi: Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod5/s5-3/) |
 | Mar 30  | [5.4 Quasi: Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod5/s5-4/) |
---->
+
 
 <p></p>
 
