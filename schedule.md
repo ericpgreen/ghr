@@ -179,7 +179,7 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBD  | Apr 6 |
+| [Malaria and Bednets: Part 1](https://drive.google.com/file/d/0Bxn_jkXZ1lxub1VpYlRiV3AzbDA/view?usp=sharing)  | Apr 6 |
 
 * * *
 
@@ -216,7 +216,7 @@ The goal of this module is teach you how to use observational and qualitative de
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| TBD  | Apr 18 |
+| [Malaria and Bednets: Part 2](https://drive.google.com/file/d/0Bxn_jkXZ1lxuQ3VzdGFrc0U2T0k/view?usp=sharing)  | Apr 18 |
 
 * * *
 
