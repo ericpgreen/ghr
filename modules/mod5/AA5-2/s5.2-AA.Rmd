@@ -42,7 +42,7 @@ Let's imagine that we are evaluating the impact of a new 10-session depression i
 
 ## Data
 
-Let's start by creating some fake baseline data. This dataset will have four variables: participant ID (`ID`), an indicator that the participant is female (`female`), participant age (`age`), and participant score on the Center for Epidemiological Studies-Depression (CES-D), a 20-item measure of depression. Responses are scored on a 4-point scale from "Rarely/None" (0) to "Most/Almost All" (3), so sum scores can range from 0 to 60. Everyone in this dataset has a score above 16 because that is an established cutoff for possible depression in this population. 
+Let's start by creating some fake baseline data. This dataset will have four variables: participant ID (`ID`), an indicator that the participant is female (`female`, coded `1` for female and `0` for male), participant age (`age`), and participant score on the Center for Epidemiological Studies-Depression (CES-D), a 20-item measure of depression. Responses are scored on a 4-point scale from "Rarely/None" (0) to "Most/Almost All" (3), so sum scores can range from 0 to 60. Higher scores represent more severe symptoms of depression. Everyone in this dataset has a score above 16 because that is an established cutoff for possible depression in this population. 
 
 ```{r data, results='hide'}
   set.seed(492)                                      # to make reproducible
@@ -61,11 +61,15 @@ Let's start by creating some fake baseline data. This dataset will have four var
   head(dat)
 ```
 
+(this table shows you the first 6 rows of the `r N` observation dataset) 
+
 Q1. Determine the following:
 
 1. What proportion of the sample is female? 
 2. What is the mean age?
 3. What is the mean CESD score at baseline?
+
+Try using `mean(dat$varname)`, replacing `varname` with `female`, `age`, and `cesdBase`.
 
 ## Random Assignment
 
@@ -116,7 +120,7 @@ Let's randomize again to `arm2`, but this time blocking on some baseline variabl
   head(dat)
 ```
 
-Q3. Now how do the groups compare at baseline?
+Q3. Now how do the groups compare at baseline? What does blocking accomplish?
 
 ```{r balance2, results='hide'}
   arm2 <- group_by(dat, arm2)
@@ -156,7 +160,11 @@ Let's assume we had zero attrition and every participant complied with his or he
            data=dat)
   summary(m1)
 ```
-Q5. What was the impact of the intervention?
+Q5. What was the impact of the intervention? 
+
+The output shows the results of regressing the outcome on assignment to treatment (`arm2treatment`) and several baseline variables: an indicator for being female, age, and baseline CES-D scores. Look at the estimate for `arm2treatment`. This shows that, controlling for gender, age, and baseline scores, the program reduced depression by `r rd1(coefficients(summary(m1))[2,1])`. The control group mean is `r rd1(mean(dat$cesdEnd[dat$arm2=="control"]))`, so this is a pretty big effect relative to the control group mean. Expressed as a standardized effect size, it's `r rd2(abs(coefficients(summary(m1))[2,1]/mean(dat$cesdEnd[dat$arm2=="control"])))`. Notice that the p-value for this estimate is significant, p < 0.001. 
+
+As you read on, pay attention to the size of the estimate for `arm2treatment`. Larger effects are more negative in this case (we want to reduce depression severity). Smaller effects go toward zero.
 
 ### Sytematic attrition
 
