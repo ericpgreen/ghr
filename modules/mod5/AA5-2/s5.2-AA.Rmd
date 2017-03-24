@@ -196,7 +196,11 @@ Q6. Are the results biased? If so, how? Why?
 
 ## Non-Compliance
 
-Now let's imagine that we obtained endline data from everyone (i.e., no attrition), but the most depressed
+### One-sided, per protocol
+
+Now let's imagine that we obtained endline data from everyone (i.e., no attrition), but some of the most depressed people in the treatment group did not complete the intervention. In other words, they weren't treated. This is **one-sided non-compliance**.
+
+Here's a **per protocol** analysis where we drop these non-compliers.
 
 ```{r m4pp, results='hide'}
   dat$treated <- c(rep(0, N/2),
@@ -210,3 +214,21 @@ Now let's imagine that we obtained endline data from everyone (i.e., no attritio
 ```
 Q7. Are the results biased? If so, how? Why?
 
+### One-sided, as treated
+
+Here's an **as treated** analysis where instead of dropping these non-compliers from the treatment group, we consider them to be part of the control group since they weren't treated.
+
+```{r m5pp, results='hide'}
+# create new variable that reflects treatment received, not assigned
+  dat$asTreated <- ifelse(dat$arm2=="control", "control",
+                   ifelse(dat$arm2=="treatment" & dat$treated==1, "treatment",
+                          "control"))
+# assume that treatment group members not treated would not have improved
+  dat$cesdEnd[dat$arm2=="treatment" & dat$treated==0] <- 
+    dat$cesdBase[dat$arm2=="treatment" & dat$treated==0]
+# per protocol
+  m5 <- lm(cesdEnd ~ asTreated + female + age + cesdBase,
+           data=dat)
+  summary(m5)
+```
+Q8. Are the results biased? If so, how? Why?
