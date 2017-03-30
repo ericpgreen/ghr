@@ -185,7 +185,7 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 ### <a name="mod6"></a> Module 6 - Observational Research Designs 
 
-The goal of this module is teach you how to use observational designs to describe health phenomena and examine associations between exposures and outcomes. 
+The goal of this module is teach you how to use observational designs to describe health phenomena and examine associations between exposures and outcomes.
 
 <!---
 #### Learning Objectives
@@ -226,10 +226,9 @@ The goal of this module is to help you understand how research is produced and, 
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 11  | 7.1 Writing proposals and manuscripts |
-| Apr 13  | 7.2 Economic analyses |
+| Apr 11  | 7.1 Choosing a research design and method |
+| Apr 13  | 7.2 Writing proposals and manuscripts |
 | Apr 18  | 7.3 From research to policy impact |
-| Apr 20  | 7.4 Putting it all together |
 
 <!---
 | Date    | Session             | 
@@ -248,6 +247,8 @@ The goal of this module is to help you understand how research is produced and, 
 | None  | NA |
 
 * * *
+
+**Apr 20**: TBD
 
 **Apr 25**: Review
 
