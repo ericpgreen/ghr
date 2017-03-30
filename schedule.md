@@ -183,9 +183,9 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 * * *
 
-### <a name="mod6"></a> Module 6 - Observational and Qualitative Research Designs 
+### <a name="mod6"></a> Module 6 - Observational Research Designs 
 
-The goal of this module is teach you how to use observational and qualitative designs to describe health phenomena and to triangulate evidence suggestive of a causal relationship between an exposure and an outcome.
+The goal of this module is teach you how to use observational designs to describe health phenomena and examine associations between exposures and outcomes. 
 
 <!---
 #### Learning Objectives
@@ -196,19 +196,10 @@ The goal of this module is teach you how to use observational and qualitative de
 
 #### Class Sessions
 
-<!---
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 04  | [6.1 Case-control and cohort]({{ site.baseurl }}/modules/mod6/s6-1/) |
-| Apr 06  | [6.2 Case report, case series, and cross-sectional]({{ site.baseurl }}/modules/mod6/s6-2/) |
-| Apr 11  | [6.3 Ethnography and grounded theory]({{ site.baseurl }}/modules/mod6/s6-3/) |
---->
-
-| Date    | Session             | 
-|---------|---------------------|
-| Apr 04  | 6.1 Case-control and cohort |
-| Apr 06  | 6.2 Case report, case series, and cross-sectional |
-| Apr 11  | 6.3 Ethnography and grounded theory |
+| Apr 04  | [6.1 Observational designs in the early days of HIV and AIDS]({{ site.baseurl }}/modules/mod6/s6-1/) |
+| Apr 06  | [6.2 Male circumcision and HIV prevention]({{ site.baseurl }}/modules/mod6/s6-2/) |
 
 <p></p>
 
@@ -235,9 +226,10 @@ The goal of this module is to help you understand how research is produced and, 
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 13  | 7.1 Writing proposals and manuscripts |
-| Apr 18  | 7.2 Economic analyses |
-| Apr 20  | 7.3 From research to policy impact |
+| Apr 11  | 7.1 Writing proposals and manuscripts |
+| Apr 13  | 7.2 Economic analyses |
+| Apr 18  | 7.3 From research to policy impact |
+| Apr 20  | 7.4 Putting it all together |
 
 <!---
 | Date    | Session             | 
