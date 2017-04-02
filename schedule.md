@@ -226,17 +226,9 @@ The goal of this module is to help you understand how research is produced and, 
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 11  | 7.1 Choosing a research design and method |
-| Apr 13  | 7.2 Writing proposals and manuscripts |
-| Apr 18  | 7.3 From research to policy impact |
-
-<!---
-| Date    | Session             | 
-|---------|---------------------|
-| Apr 13  | [7.1 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod7/s7-1/) |
-| Apr 18  | [7.2 Economic analyses]({{ site.baseurl }}/modules/mod7/s7-2/) |
-| Apr 20  | [7.3 From research to policy impact]({{ site.baseurl }}/modules/mod7/s7-3/) |
---->
+| Apr 11  | [7.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod7/s7-1/) |
+| Apr 13  | [7.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod7/s7-2/) |
+| Apr 18  | [7.3 From research to policy impact]({{ site.baseurl }}/modules/mod7/s7-3/) |
 
 <p></p>
 
