@@ -6,7 +6,7 @@ output:
   pdf_document: default
 ---
 
-This R notebook accompanies the [Session 5.2 application activity](http://www.designsandmethods.com/modules/mod5/s5-2/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
+This R notebook accompanies the [Session 5.2 application activity](http://www.designsandmethods.com/modules/mod6/s6-2/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
 
 1. If you downloaded and installed R and RStudio, you can open this file with RStudio.
 2. The easier option is to login to your 'virtual' RStudio environment on Duke's server. Go [here](https://vm-manage.oit.duke.edu/), enter your credentials, and follow the `Docker` link to the option to launch RStudio. Once RStudio is running in your browser, go to the `Files` tab and `Upload` the `Rmd` file. Open it and clear all objects from the workspace (Session > Clear Workspace).
