@@ -133,7 +133,7 @@ The goal of this module is to help you think through these two questions.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Sampling: How and How Many?](https://drive.google.com/file/d/0Bxn_jkXZ1lxuVTRjeUZqWmhjaVk/view?usp=sharing)  | Oct 26 |
+| Sampling: How and How Many?  | Oct 26 |
 
 * * *
 
@@ -172,7 +172,7 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 1](https://drive.google.com/file/d/0Bxn_jkXZ1lxub1VpYlRiV3AzbDA/view?usp=sharing)  | Nov 7 |
+| Malaria and Bednets: Part 1  | Nov 7 |
 
 * * *
 
@@ -190,7 +190,7 @@ The goal of this module is to introduce you to quasi-experimental designs that y
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 1](https://drive.google.com/file/d/0Bxn_jkXZ1lxub1VpYlRiV3AzbDA/view?usp=sharing)  | Nov 14 |
+| Malaria and Bednets: Part 2  | Nov 14 |
 
 * * *
 
@@ -218,7 +218,7 @@ The goal of this module is teach you how to use observational designs to describ
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 2](https://drive.google.com/file/d/0Bxn_jkXZ1lxuQ3VzdGFrc0U2T0k/view?usp=sharing)  | Nov 21 |
+| Malaria and Bednets: Part 3  | Nov 21 |
 
 * * *
 
