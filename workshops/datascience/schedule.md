@@ -4,7 +4,13 @@ title: Donuts and Data Science
 subtitle: Fall 2017
 ---
 
-Intro
+This workshop is designed to help students learn modern data science workflows using R and RStudio. We'll focus on how to import, tidy, transform, and visualize data in preparation for analysis. We'll also cover how to create reproducible reports and Shiny apps based on your data. There are no prerequisites. 
+
+<p align="center">
+<img src="/img/tidy.png" style="width: 500px;"/>
+</p>
+
+The workshop will take place in Trent 040 on Thursdays from 7-8am. Donuts and coffee will be provided. Interested students should use [this form](https://goo.gl/forms/CQGqQghSVmG8vXQU2) to register. Space is limited and priority will be given to MSc in Global Health students.
 
 * * * 
 
@@ -20,3 +26,8 @@ Intro
 | 8    | Nov 2 | [Topic]({{ site.baseurl }}/workshops/datascience/ds8/) |
 | 9    | Nov 9 | [Topic]({{ site.baseurl }}/workshops/datascience/ds9/) |
 | 10    | Nov 16 | [Topic]({{ site.baseurl }}/workshops/datascience/ds10/) |
+
+<br>
+* * *
+
+Image: Garrett Grolemund and Hadley Wickham in [R for Data Science](http://r4ds.had.co.nz/)
