@@ -240,7 +240,7 @@ The goal of this module is to help you understand how research is produced and, 
 | Nov 16  | [8.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod8/s8-1/) |
 | Nov 21  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
 | Nov 23  | No class, Thanksgiving Break |
-| Apr 28  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
+| Nov 28  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
 
 <p></p>
 
