@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Donuts and Data Science
-subtitle: Session 9 Shiny
+title: Shiny
+subtitle: Donuts and Data Science 9
 ---
 
 ### About this Session

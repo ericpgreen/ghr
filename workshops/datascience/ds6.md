@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Donuts and Data Science
-subtitle: Session 6 Visualize
+title: Visualize
+subtitle: Donuts and Data Science 6
 ---
 
 ### About this Session
