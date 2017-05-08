@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donuts and Data Science
-subtitle: Session 4
+subtitle: Session 4: Transform
 ---
 
 ### About this Session
