@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donuts and Data Science
-subtitle: Session 1: Workflows
+subtitle: Session 1 Workflows
 ---
 
 ### About this Session

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Donuts and Data Science
-subtitle: Session 7: Model
+subtitle: Session 7 Model
 ---
 
 ### About this Session
