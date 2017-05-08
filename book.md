@@ -6,7 +6,7 @@ title: Books
 <p style="font-size:150%;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 800;">Global Health Research: Designs and Methods</p>
 
 
-<a href="http://www.designsandmethods.com/ebook/"><img src="/img/ghr-cover-web.png" style="width: 200px" ALIGN=”left;” /></a> 
+<a href="http://www.designsandmethods.com/ebook/"><img src="/img/ghr-cover-web.png" style="width: 200px;" /></a> 
 This book
 
 
