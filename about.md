@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About this Course 
+title: About 
 subtitle: 
 ---
 
-**Instructor:** [Eric Green, Ph.D.](https://globalhealth.duke.edu/people/faculty/green-eric)
+<p style="font-size:150%;">This is the course website for Global Health Research Designs and Methods (GLHLTH 371/PSY 309 and GLHLTH 702) at <a href="http://www.duke.edu">Duke University</a> taught by <a href="https://globalhealth.duke.edu/people/faculty/green-eric">Eric Green</a>.</p>
 
-**Institution:** Duke University
 
 * * *
 
