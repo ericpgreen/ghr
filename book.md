@@ -7,12 +7,16 @@ title: Books
 
 
 <a href="http://www.designsandmethods.com/ebook/"><img src="/img/ghr-cover-web.png" style="width: 200px; float:left;" /></a> 
-<i>Global Health Research: Designs and Methods</i> helps students become better consumers of research and prepares them to contribute to global health research teams. Readers learn how to ask research questions, critically appraise scientific literature, select an appropriate research design, develop a sampling and measurement plan, and make an impact with their work. This online book can be used in undergraduate and graduate courses that train students in the basics of global health research. See the Duke course schedule for session outlines, learning objectives, activities, and lecture slides.
+<i>Global Health Research: Designs and Methods</i> helps students become better consumers of research and prepares them to contribute to global health research teams. Readers learn how to ask research questions, critically appraise scientific literature, select an appropriate research design, develop a sampling and measurement plan, and make an impact with their work. This online book can be used in undergraduate and graduate courses that train students in the basics of global health research. See the course schedule for session outlines, learning objectives, activities, and lecture slides.
 
 <p style="font-size:150%;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 800;">Global Health Data Science</p>
 
+<br>
+<br>
+<br>
+<br>
 
-<a href="http://www.designsandmethods.com/ghds/"><img src="/img/ghr-cover-web.png" style="width: 200px" ALIGN=”left;” /></a> 
+<a href="http://www.designsandmethods.com/ghds/"><img src="/img/ghr-cover-web.png" style="width: 200px; float:left;" /></a> 
 This book
 
 * * * 
