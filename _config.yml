@@ -29,8 +29,7 @@ navbar-links:
     - GLHLTH 371/PSY 309: "371"
     - GLHLTH 702: "702"
     - Schedule: "schedule"
-    - Piazza: 
-      - 702: https://piazza.com/duke/fall2017/glhlth702/home
+    - Piazza: https://piazza.com/duke/fall2017/glhlth702/home
   Workshops: 
     - Donuts and Data Science: "workshops/datascience/schedule"
 
