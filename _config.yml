@@ -25,12 +25,12 @@ description: Course page for global health research design and methods.
 navbar-links:
   About: "about"
   Books: "book"
-  Syllabus:
-    - 371: "371"
-    - 702: "702"
-  Schedule: "schedule"
-  Piazza: 
-    - 702: https://piazza.com/duke/fall2017/glhlth702/home
+  Courses: 
+    - GLHLTH 371/PSY 309: "371"
+    - GLHLTH 702: "702"
+    - Schedule: "schedule"
+    - Piazza: 
+      - 702: https://piazza.com/duke/fall2017/glhlth702/home
   Workshops: 
     - Donuts and Data Science: "workshops/datascience/schedule"
 
