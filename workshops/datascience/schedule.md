@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donuts and Data Science 
+title: I Eat Data Science for Breakfast 
 subtitle: Fall 2017
 ---
 
@@ -10,7 +10,7 @@ This workshop is designed to help students learn modern data science workflows u
 <img src="/img/tidy.png" style="width: 500px;"/>
 </p>
 
-The workshop will take place in Trent 040 on Thursdays from 7:15-8:15am. Donuts and coffee will be provided. Interested students should use [this form](https://goo.gl/forms/CQGqQghSVmG8vXQU2) to register. Space is limited and priority will be given to MSc in Global Health students.
+The workshop will take place in Trent 040 on Thursdays from 7:15-8:15am. Coffee and a light breakfast will be provided. Interested students should use [this form](https://goo.gl/forms/CQGqQghSVmG8vXQU2) to register. Space is limited and priority will be given to MSc in Global Health students.
 
 * * * 
 
