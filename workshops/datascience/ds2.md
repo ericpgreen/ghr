@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Import
-subtitle: Donuts and Data Science 2
+subtitle: Session 2
 ---
 
 ### About this Session

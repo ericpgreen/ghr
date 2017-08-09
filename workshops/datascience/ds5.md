@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Functions
-subtitle: Donuts and Data Science 5
+subtitle: Session 5
 ---
 
 ### About this Session

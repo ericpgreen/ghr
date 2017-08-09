@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RMarkdown
-subtitle: Donuts and Data Science 8
+subtitle: Session 8
 ---
 
 ### About this Session

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tidy
-subtitle: Donuts and Data Science 3
+subtitle: Session 3
 ---
 
 ### About this Session
