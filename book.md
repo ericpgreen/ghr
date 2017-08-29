@@ -17,7 +17,15 @@ title: Books
 
 <p style="font-size:150%;font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 800;">Global Health Research: Data Science</p>
 
-<a href="http://www.globalhealthresearch.co/ghds/"><img src="/img/cover-ds.jpg" style="width: 200px; float:left;" /></a> 
+<!--
+<a href="http://www.globalhealthresearch.co/ghds/">
+-->
+<img src="/img/cover-ds.jpg" style="width: 200px; float:left;" />
+
+<!--
+</a> 
+-->
+
 <br>
 <br>
 <i>Global Health Research: Data Science</i> is a hands-on guide for global health students without much experience in modern data workflows. Readers will learn how to use R and RStudio to import, tidy, transform, and visualize data in preparation for analysis, and then create reproducible reports and Shiny apps to share findings. This book is designed to take readers from raw data to publication-quality manuscripts.   
