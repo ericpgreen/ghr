@@ -20,6 +20,7 @@ Interested students should use [this form](https://goo.gl/forms/CQGqQghSVmG8vXQU
 |------|---------|---------------------|
 | 1    | Sep 14 | Workflows |
 | 2    | Sep 21 | Import |
+
 <!--
 | 1    | Sep 14 | [Workflows]({{ site.baseurl }}/workshops/datascience/ds1/) |
 | 2    | Sep 21 | [Import]({{ site.baseurl }}/workshops/datascience/ds2/) |
