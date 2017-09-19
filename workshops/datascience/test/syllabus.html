@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Syllabus</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">GLHLTH 89S</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="mod1.html">Module 1</a>
+</li>
+<li>
+  <a href="mod2.html">Module 2</a>
+</li>
+<li>
+  <a href="mod3.html">Module 3</a>
+</li>
+<li>
+  <a href="mod4.html">Module 4</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Syllabus</h1>
+
+</div>
+
+
+<p>This seminar course is a book club on steriods. We’ll read a collection of fantasic popular press titles, screen two films, explore global datasets, and share our ideas through individual writing exercises and group projects. Book clubs don’t have exams, so neither do we. But there are plenty of opportunities throughout the semester to demonstrate your engagement and understanding of the topics we discuss.</p>
+<div id="objectives" class="section level1">
+<h1>Objectives</h1>
+<p>My goal is for every student to leave this course with new perspectives on what it means to be poor and sick in this world. I will ask you to do the following:</p>
+<ul>
+<li><p>consider the nature of poverty and what we mean by “development”, foreign aid, and global health</p></li>
+<li><p>learn broad trends over time in important global health and development statistics</p></li>
+<li><p>gain an understanding of contemporary debates about the role of the international community in poverty alleviation, global health, and humanitarian action; and</p></li>
+<li><p>become familiar with evidence on “what works” to solve global health challenges and understand the basic toolkit for generating this evidence.</p></li>
+</ul>
+</div>
+<div id="what-youll-read" class="section level1">
+<h1>What You’ll Read</h1>
+<p>We’ll start the semester by grounding ourselves in an understanding of what we mean by “global health” and “development”. In <strong><em>Reimaging Global Health</em></strong>, Duke grad Paul Farmer and his colleagues introduce us to the “biosocial” model as a lens for viewing the field of global health. Sticking with the theme of conceptual lenses, we’ll also read Amartya Sen’s landmark book <strong><em>Development as Freedom</em></strong>, in which he argues that “development” is both the primary end and as the principal means of development. You’ll find the assigned chapters on Sakai</p>
+<p>We’ll begin our deep dive this semester with two books on the experience of living in poverty at home and around the world. In <strong><em>$2.00 a Day</em></strong>, sociologist Kathryn Edin and poverty researcher Luke Shaefer examine the lives of nearly 3 million kids in the US growing up in homes that have almost no cash income. Then in <strong><em>Portfolios of the Poor</em></strong>, economist Jonathan Morduch and a team of economists and microfinance experts broaden the investigation to Bangladesh, India, and South Africa. Both books will help us to understand how a billion people get by every day with so little.</p>
+<p>Next, we will sample from a few books that will give us an opportunity to consider why some people and places are poor and sick in the first place. For starters, we’ll read two chapters from Sir Angus Deaton’s book, <strong><em>The Great Escape</em></strong>, to get a brief history of poverty and development. Then we’ll consider dualing perspectives on the cause of poverty. In <strong><em>Bottom Billion</em></strong>, economist Paul Collier suggests that there are four traps that put and keep people in poverty: civil war, the resource curse, the problem of being landlocked, and bad governance. Just as you are starting to nod your head in agreement, economist Daron Acemoglu and political scientist James Robinson will make you think again with their book, <strong><em>Why Nations Fail</em></strong>, that puts the blame on economic and politicial institutions instead. Turning then to health, we’ll read the ideas of two people who have given a lot of thought to the question of why people get sick and die. In <em><strong>Epic Measures</strong>, journalist Jeremy Smith tells the story of Dr. Chris Murray and his quest to quantify death and disability on a scale never before attempted. In </em><strong>Infections and Inequalities</strong>*, Paul Farmer makes his second appearance in the semester to help us understand why infectious disease is not just the study of biology.</p>
+<p>In the final module of the semester, we will examine the search for “what works” to end poverty improve global health. First we’ll consider the role of foreign aid in bringing about <strong><em>The End of Poverty</em></strong>. In this book, economist Jeff Sachs gives us an inspiring look at how we could end extreme poverty by 2025 if we just spent more money. This idea was put to the test through the Millennium Villages Project, and journalist Nina Munk takes us on a critical journey of the results in her book <strong><em>The Idealist</em></strong>. Then we’ll read <strong><em>Poor Economics</em></strong> by Esther Duflo and Abhijit Banerjee, two of the founders of the Abdul Latif Jameel Poverty Action Lab. This book will take us on a fascinating tour of evidence from recent randomized controlled trials that will reveal keen insights into the the lives of the poor and suggest steps for turning evidence into action.</p>
+</div>
+<div id="what-youll-watch" class="section level1">
+<h1>What You’ll Watch</h1>
+<p>We will screen two films this semester:</p>
+<ul>
+<li><p><strong><em>Good Fortune</em></strong>, a documentary about the recipients of foreign aid in Kenya and the flipside of good intentions; and</p></li>
+<li><p><strong><em>Bending the Arc</em></strong>, a documentary about Paul Farmer and the work of Partners In Health to bring world-class healthcare to everyone, everywhere.</p></li>
+</ul>
+</div>
+<div id="what-youll-do" class="section level1">
+<h1>What You’ll Do</h1>
+<p>In this course I’ll ask you to learn how to explore data and share what you are thinking and learning through individual writing assignments and group projects. Data exploration, writing, and speaking are three fundamental skills you need to master during your time at Duke, and I want to help you get started. Here’s what you can expect:</p>
+<p>In the first module, I’ll teach you how to search the literature effectively, organize your writing, and access data. Follow the instructions to prepare for each session, and come to class with a laptop.</p>
+<p>In the remaining modules, we’ll discuss assigned books and readings on Tuesdays and complete a data tutorial in class on Thursdays (so bring your laptop). In the last week of each module, Tuesday will be a writing workshop, and Thursday will be a presentation workshop.</p>
+<p>Prior to each writing workshop, you will submit a draft that will be reviewed by two students who will prepare written feedback. The three of you will meet during class to review your draft and peer ideas for improvement. You will then take the feedback you receive in writing and in person and prepare a final draft for a course grade.</p>
+<p>In preparation for the presentation workshops, you a group of 3-4 other students will meet to prepare a short presentation on an assigned topic. You’ll remain with this group thoughout the semester and give a total of three presentations. You will receive feedback on your presentation style from your audience, and you will give it in turn.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
