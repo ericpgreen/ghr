@@ -1,0 +1,63 @@
+---
+title: "IEDSFB Week 3"
+author: "Your Name Here"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+  knitr::opts_chunk$set(echo = TRUE)
+  opts_knit$set(root.dir=normalizePath('../'))
+```
+
+# Introduction
+
+
+
+# Importing Data
+
+## Download to machine
+
+Last week you downloaded data into the `input` folder. Here's the code chunk with the download commands for reference in case you need to do it again. The chunk is set to `eval=FALSE` so that R will not run it. 
+
+```{r download, evel=FALSE}
+  download.file("https://www.dropbox.com/s/k4d2j6feayezkun/r2d2.csv?dl=1", 
+                destfile = "input/r2d2-w02.csv")
+  download.file("https://www.dropbox.com/s/1e2tqqmfzmzaybe/r2d2.dta?dl=1", 
+                destfile = "input/r2d2-w02.dta")
+  download.file("https://www.dropbox.com/s/6b8t2c877yvqeax/r2d2.rds?dl=1", 
+                destfile = "input/r2d2-w02.rds")
+  download.file("https://www.dropbox.com/s/beftqecfs4vvuss/r2d2.sas?dl=1", 
+                destfile = "input/r2d2-w02.sas")
+  download.file("https://www.dropbox.com/s/tiqgit23db2fk8x/r2d2.txt?dl=1", 
+                destfile = "input/r2d2-w02.text")
+  download.file("https://www.dropbox.com/s/7a3i7e0bfmqiikr/r2d2.xlsx?dl=1", 
+                destfile = "input/r2d2-w02.xlsx")
+```
+
+```{r loadCSV}
+  
+```
+
+```{r str}
+
+```
+
+The `datCSV` data frame has ... observations (rows) and ... columns.
+
+```{r glimpse}
+
+```
+
+
+```{r head}
+
+```
+
+
+```{r kable}
+
+```
