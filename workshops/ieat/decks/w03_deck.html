@@ -495,7 +495,11 @@ p { text-align: left; }
 <h2>Objectives</h2>
 <p>By the end of this session, you should be able to:</p>
 <ul>
-<li></li>
+<li>Import data from CSV, RDS, Stata, SAS, SPSS, URLs, and APIs</li>
+<li>Inspect your data</li>
+<li>Interpret piped code</li>
+<li>Use row and column index values</li>
+<li>Classify R data types</li>
 </ul>
 </section>
 <section id="two-steps-forward-one-step-back" class="slide level2" data-background-image="https://media.giphy.com/media/3oEduZ9znjJjORaZW0/giphy.gif">
@@ -674,70 +678,6 @@ p { text-align: left; }
 <section id="two-new-notations" class="slide level2">
 <h2>Two new notations</h2>
 <p>Pipes <code>%&gt;%</code> and [rows, columns]</p>
-</section>
-<section id="libraries" class="slide level2">
-<h2>Libraries</h2>
-<p>library(foreign)</p>
-<p>library(tidyverse)</p>
-</section>
-<section id="read-it" class="slide level2">
-<h2>Read it</h2>
-<ul>
-<li>csv</li>
-<li>Excel</li>
-<li>Google Sheets</li>
-<li>Stata</li>
-<li>APIs</li>
-</ul>
-</section>
-<section id="google-drive" class="slide level2">
-<h2>Google Drive</h2>
-<ul>
-<li>This will take you to your web authorization and give you access to your Google Drive files</li>
-</ul>
-<p>library(“googledrive”) drive_find(n_max = 25)</p>
-</section>
-<section id="api" class="slide level2">
-<h2>API</h2>
-<ul>
-<li>It’s basically a web address</li>
-<li>then you tell R where to go and what language you want back (JSON, xml)</li>
-<li>then use an R package to get it into a format R can understand</li>
-</ul>
-</section>
-<section id="check-it-out" class="slide level2">
-<h2>Check it out</h2>
-<ul>
-<li>glimpse</li>
-<li>str</li>
-<li>plot it</li>
-<li>data science dinosaur (outliers)</li>
-</ul>
-</section>
-<section id="tidyr" class="slide level2">
-<h2>tidyr</h2>
-<p>glimpse() group_by() mutate() summarise() n()</p>
-</section>
-<section id="code" class="slide level2">
-<h2>code</h2>
-<style>background-color:#FFFFFF</style>
-<pre><code>
-defmodule Math do
-  <mark>def sum(a, b) do</mark>
-    <mark>a + b</mark>
-  <mark>end</mark>
-end
-  </code></pre>
-</section>
-<section id="summary-statistics" class="slide level2">
-<h2>Summary Statistics</h2>
-<ul>
-<li>pipe something for groups</li>
-</ul>
-</section>
-<section id="other-useful-code" class="slide level2">
-<h2>other useful code</h2>
-<p>paste0() loops</p>
 </section>
     </div>
   </div>
