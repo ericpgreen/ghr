@@ -133,7 +133,7 @@ The goal of this module is to help you think through these two questions.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| Sampling: How and How Many?  | Oct 26 |
+| [Sampling: How and How Many?](https://docs.google.com/document/d/1MIANPwcWC9sKuQfNoBaR0oYxrfsTH_WHoblWtXkEfiQ/edit?usp=sharing)  | Nov 2 |
 
 * * *
 
