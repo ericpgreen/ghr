@@ -6,7 +6,7 @@ output:
   pdf_document: default
 ---
 
-This R notebook accompanies the [Session 5.2 application activity](http://www.designsandmethods.com/modules/mod6/s6-2/) for [Global Health Research: Designs and Methods](http://www.designsandmethods.com/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
+This R notebook accompanies the [Session 5.2 application activity](http://www.globalhealthresearch.co/modules/mod6/s6-2/) for [Global Health Research: Designs and Methods](http://www.globalhealthresearch.co/). To get started, click the "Code" button in the top right corner of the screen and download the `Rmd` file. You have two options for running this file:
 
 1. If you downloaded and installed R and RStudio, you can open this file with RStudio.
 2. The easier option is to login to your 'virtual' RStudio environment on Duke's server. Go [here](https://vm-manage.oit.duke.edu/), enter your credentials, and follow the `Docker` link to the option to launch RStudio. Once RStudio is running in your browser, go to the `Files` tab and `Upload` the `Rmd` file. Open it and clear all objects from the workspace (Session > Clear Workspace).
@@ -85,12 +85,12 @@ Now let's randomly assign these `r N` participants to two study arms: standard o
 Q2. How do the groups compare at baseline?
 
 ```{r balance1, results='hide'}
-  arm <- group_by(dat, arm)
-  summarize(arm, 
-            count = n(), 
-            female = mean(female, na.rm = T), 
-            age = mean(age, na.rm = T),
-            cesdBase = mean(cesdBase, na.rm = T))
+  dat %>%
+    group_by(arm) %>%
+    summarize(count = n(), 
+              female = mean(female, na.rm = T), 
+              age = mean(age, na.rm = T),
+              cesdBase = mean(cesdBase, na.rm = T))
 ```
 
 Let's randomize again to `arm2`, but this time blocking on some baseline variables.
@@ -123,12 +123,12 @@ Let's randomize again to `arm2`, but this time blocking on some baseline variabl
 Q3. Now how do the groups compare at baseline? What does blocking accomplish?
 
 ```{r balance2, results='hide'}
-  arm2 <- group_by(dat, arm2)
-  summarize(arm2, 
-            count = n(), 
-            female = mean(female, na.rm = T), 
-            age = mean(age, na.rm = T),
-            cesdBase = mean(cesdBase, na.rm = T))
+  dat %>%
+    group_by(arm2) %>%
+    summarize(count = n(), 
+              female = mean(female, na.rm = T), 
+              age = mean(age, na.rm = T),
+              cesdBase = mean(cesdBase, na.rm = T))
 ```
 
 We'll use `arm2` as the assignment variable going forward. Now we can go ahead and simulate some mock endline data collected 3-months after the intervention completed.
@@ -166,7 +166,7 @@ The output shows the results of regressing the outcome on assignment to treatmen
 
 As you read on, pay attention to the size of the estimate for `arm2treatment`. Larger effects are more negative in this case (we want to reduce depression severity). Smaller effects go toward zero.
 
-### Sytematic attrition
+### Sytematic attrition, intent-to-treat
 
 What if we had 10% attrition, but attrition was more common in the treatment group, and the attritters in the treatment group were those with the highest depression scores at baseline.
 
