@@ -190,7 +190,7 @@ The goal of this module is to introduce you to quasi-experimental designs that y
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| Malaria and Bednets: Part 2  | Nov 14 |
+| [Malaria and Bednets: Part 2](https://docs.google.com/document/d/1yVGN3cGhYXIAd6RYlAyMxHVFpezKzq4lUbY2Qta5Xvc/edit?usp=sharing)  | Nov 14 |
 
 * * *
 
