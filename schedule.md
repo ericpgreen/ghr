@@ -218,7 +218,7 @@ The goal of this module is teach you how to use observational designs to describ
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| Malaria and Bednets: Part 3  | Nov 27 |
+| [Malaria and Bednets: Part 3](https://docs.google.com/document/d/1X-_504kJoHf-xI4AR0gJKgghZlB8ZVbUQFJ97Z9vwog/edit?usp=sharing)  | Nov 27 |
 
 * * *
 
