@@ -238,9 +238,10 @@ The goal of this module is to help you understand how research is produced and, 
 | Date    | Session             | 
 |---------|---------------------|
 | Nov 16  | [8.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod8/s8-1/) |
-| Nov 21  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
+| Nov 21  | No class |
 | Nov 23  | No class, Thanksgiving Break |
-| Nov 28  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
+| Nov 29  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
+| Nov 30  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
 
 <p></p>
 
@@ -249,7 +250,3 @@ The goal of this module is to help you understand how research is produced and, 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | None  | NA |
-
-* * *
-
-**Nov 30**: TBD
