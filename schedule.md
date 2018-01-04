@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule 
-subtitle: Spring 2016
+subtitle: Spring 2018
 ---
 
 | Jump: | [Mod 1]({{ site.baseurl }}/schedule/#mod1) | [Mod 2]({{ site.baseurl }}/schedule/#mod2) | [Mod 3]({{ site.baseurl }}/schedule/#mod3) | [Mod 4]({{ site.baseurl }}/schedule/#mod4) | [Mod 5]({{ site.baseurl }}/schedule/#mod5) | [Mod 6]({{ site.baseurl }}/schedule/#mod6) | [Mod 7]({{ site.baseurl }}/schedule/#mod7) | [Mod 8]({{ site.baseurl }}/schedule/#mod8) |
