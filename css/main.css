@@ -98,7 +98,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #849a0b;
+  background: #00269f;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -203,7 +203,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #dd9004;
+  background: #1f9ac9ff;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -240,7 +240,7 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #dd9004;
+  background: #1f9ac9ff;
   border-top: 1px #EAEAEA solid;
   margin-top: 0px; /* EPG changing */
   font-size: 14px;
