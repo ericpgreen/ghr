@@ -26,11 +26,11 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #dd9004;
+  color: #0b1c59;
 }
 a:hover,
 a:focus {
-  color: #dd9004;
+  color: #0b1c59;
 }
 blockquote {
   color: #808080;
@@ -98,7 +98,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #dd9004;
+  background: #0b1c59;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -119,7 +119,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #dd9004;
+  color: #0b1c59;
 }
 
 @media only screen and (min-width: 768px) {
@@ -295,13 +295,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #dd9004;
+  color: #0b1c59;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #dd9004;
+  color: #0b1c59;
 }
 
 .post-preview .post-title {
