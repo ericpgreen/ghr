@@ -246,8 +246,9 @@ footer {
   font-size: 14px;
 }
 
-footer a {
-  color: #404040;
+footer a:hover,
+a:focus {
+  color: #ffffff;
 }
 
 footer .list-inline {
