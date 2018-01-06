@@ -23,7 +23,6 @@ The goal of this module is to introduce you to global health research, describe 
 |---------|---------------------|
 | Jan 11  | [1.1 Welcome]({{ site.baseurl }}/modules/mod1/s1-1/) |
 | Jan 16  | [1.2 Introduction to global health research]({{ site.baseurl }}/modules/mod1/s1-2/) |
-| Jan 18  | [1.3 Tools of the trade]({{ site.baseurl }}/modules/mod1/s1-3/) |
 
 <p></p>
 
@@ -48,10 +47,10 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 | Date    | Session             | 
 |---------|---------------------|
-| Jan 23  | [2.1 Systematic reviews and meta-analyses]({{ site.baseurl }}/modules/mod2/s2-1/) |
-| Jan 25  | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/) |
-| Jan 30  | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/) |
-| Feb 1  | [2.4 Evaluating claims of causality]({{ site.baseurl }}/modules/mod2/s2-4/) |
+| Jan 18  | [2.1 Systematic reviews and meta-analyses]({{ site.baseurl }}/modules/mod2/s2-1/) |
+| Jan 23  | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/) |
+| Jan 25  | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/) |
+| Jan 30  | [2.4 Evaluating claims of causality]({{ site.baseurl }}/modules/mod2/s2-4/) |
 
 <p></p>
 
@@ -59,7 +58,7 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Asking a question and searching the literature](https://drive.google.com/file/d/0Bxn_jkXZ1lxuR19MSm45Vkx5NUU/view?usp=sharing)  | Feb 8 |
+| [Asking a question and searching the literature](https://drive.google.com/file/d/0Bxn_jkXZ1lxuR19MSm45Vkx5NUU/view?usp=sharing)  | Feb 6 |
 
 * * *
 
@@ -76,11 +75,11 @@ The goal of this module is to introduce you to global health indicators, methods
 
 | Date    | Session             | 
 |---------|---------------------|
-| Feb 6 | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
-| Feb 8  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
-| Feb 13  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
-| Feb 15  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
-| Feb 20  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
+| Feb 1 | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
+| Feb 6  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
+| Feb 8  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
+| Feb 13  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
+| Feb 15  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
 
 <p></p>
 
@@ -88,7 +87,7 @@ The goal of this module is to introduce you to global health indicators, methods
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [From research questions to study measurement](https://drive.google.com/file/d/0Bxn_jkXZ1lxuYVBOYVpSNmN2ZTA/view?usp=sharing)  | Feb 27 |
+| [From research questions to study measurement](https://drive.google.com/file/d/0Bxn_jkXZ1lxuYVBOYVpSNmN2ZTA/view?usp=sharing)  | Feb 22 |
 
 
 ### <a name="mod4"></a> Module 4 - Sampling and Power
@@ -109,18 +108,11 @@ The goal of this module is to help you think through these two questions.
 
 #### Class Sessions
 
-<!---
 | Date    | Session             | 
 |---------|---------------------|
-| Feb 28  | 4.1 Sampling |
-| Mar 02  | 4.2 Power and hypothesis testing |
---->
-
-| Date    | Session             | 
-|---------|---------------------|
-| Mar 1  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
-| Mar 6  | [4.2 Power and hypothesis testing 1]({{ site.baseurl }}/modules/mod4/s4-2/) |
-| Mar 8  | [4.3 Power and hypothesis testing 2]({{ site.baseurl }}/modules/mod4/s4-3/) |
+| Feb 20  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
+| Feb 22  | [4.2 Power and hypothesis testing 1]({{ site.baseurl }}/modules/mod4/s4-2/) |
+| Feb 27  | [4.3 Power and hypothesis testing 2]({{ site.baseurl }}/modules/mod4/s4-3/) |
 
 <p></p>
 
@@ -128,13 +120,17 @@ The goal of this module is to help you think through these two questions.
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Sampling: How and How Many?](https://docs.google.com/document/d/1MIANPwcWC9sKuQfNoBaR0oYxrfsTH_WHoblWtXkEfiQ/edit?usp=sharing)  | Mar 19 |
+| [Sampling: How and How Many?](https://docs.google.com/document/d/1MIANPwcWC9sKuQfNoBaR0oYxrfsTH_WHoblWtXkEfiQ/edit?usp=sharing)  | Mar 1 |
 
 * * *
 
-**Mar 20**: Review
+**Mar 1**: Review
 
-**Mar 22**: Midterm
+**Mar 6**: Midterm
+
+**Mar 8**: Post-midterm review; Introduce research proposal assignment
+
+**Mar 13/15**: No class, Spring Break:
 
 * * *
 
@@ -151,25 +147,19 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 #### Class Sessions
 
-<!---
 | Date    | Session             | 
 |---------|---------------------|
-| Mar 21  | 5.1 Randomized controlled trials |
-| Mar 23  | 5.2 Analysis of RCTs |
-| Mar 28  | 5.3 Quasi: Pre/post, difference-in-differences, regression |
-| Mar 30  | 5.4 Quasi: Regression discontinuity, interrupted time series |
---->
-
-| Date    | Session             | 
-|---------|---------------------|
-| Mar 27  | [5.1 Randomized controlled trials]({{ site.baseurl }}/modules/mod5/s5-1/) |
-| Mar 29  | [5.2 Analysis of RCTs]({{ site.baseurl }}/modules/mod5/s5-2/) |
+| Mar 20  | [5.1 Randomized controlled trials]({{ site.baseurl }}/modules/mod5/s5-1/) |
+| Mar 22  | [5.2 Analysis of RCTs]({{ site.baseurl }}/modules/mod5/s5-2/) |
 
 #### Homework
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 1](https://drive.google.com/open?id=0Bxn_jkXZ1lxub1VpYlRiV3AzbDA)  | Apr 5 |
+| Malaria and Bednets: Part 1  | Mar 29 |
+<!--
+| [Malaria and Bednets: Part 1](https://drive.google.com/open?id=0Bxn_jkXZ1lxub1VpYlRiV3AzbDA)  | Mar 29 |
+-->
 
 * * *
 
@@ -179,8 +169,8 @@ The goal of this module is to introduce you to quasi-experimental designs that y
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 3  | [6.1 Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod6/s6-1/) |
-| Apr 5  | [6.2 Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod6/s6-2/) |
+| Mar 27  | [6.1 Pre/post, difference-in-differences, regression]({{ site.baseurl }}/modules/mod6/s6-1/) |
+| Mar 29  | [6.2 Regression discontinuity, interrupted time series]({{ site.baseurl }}/modules/mod6/s6-2/) |
 
 
 <p></p>
@@ -189,7 +179,10 @@ The goal of this module is to introduce you to quasi-experimental designs that y
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 2](https://docs.google.com/document/d/1yVGN3cGhYXIAd6RYlAyMxHVFpezKzq4lUbY2Qta5Xvc/edit?usp=sharing)  | Apr 12 |
+| Malaria and Bednets: Part 2  | Apr 5 |
+<!--
+| [Malaria and Bednets: Part 2](https://docs.google.com/document/d/1yVGN3cGhYXIAd6RYlAyMxHVFpezKzq4lUbY2Qta5Xvc/edit?usp=sharing)  | Apr 5 |
+-->
 
 * * *
 
@@ -208,8 +201,8 @@ The goal of this module is teach you how to use observational designs to describ
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 10  | [7.1 Observational designs in the early days of HIV and AIDS]({{ site.baseurl }}/modules/mod7/s7-1/) |
-| Apr 12  | [7.2 Male circumcision and HIV prevention]({{ site.baseurl }}/modules/mod7/s7-2/) |
+| Apr 3  | [7.1 Observational designs in the early days of HIV and AIDS]({{ site.baseurl }}/modules/mod7/s7-1/) |
+| Apr 5  | [7.2 Male circumcision and HIV prevention]({{ site.baseurl }}/modules/mod7/s7-2/) |
 
 <p></p>
 
@@ -217,7 +210,10 @@ The goal of this module is teach you how to use observational designs to describ
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Malaria and Bednets: Part 3](https://docs.google.com/document/d/1X-_504kJoHf-xI4AR0gJKgghZlB8ZVbUQFJ97Z9vwog/edit?usp=sharing)  | Apr 19 |
+| Malaria and Bednets: Part 3  | Apr 12 |
+<!--
+| [Malaria and Bednets: Part 3](https://docs.google.com/document/d/1X-_504kJoHf-xI4AR0gJKgghZlB8ZVbUQFJ97Z9vwog/edit?usp=sharing)  | Apr 12 |
+-->
 
 * * *
 
@@ -236,9 +232,9 @@ The goal of this module is to help you understand how research is produced and, 
 
 | Date    | Session             | 
 |---------|---------------------|
-| Apr 17  | [8.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod8/s8-1/) |
-| Apr 19  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
-| Apr 24  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
+| Apr 10  | [8.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod8/s8-1/) |
+| Apr 12  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
+| Apr 17  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
 
 <p></p>
 
@@ -247,3 +243,11 @@ The goal of this module is to help you understand how research is produced and, 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | None  | NA |
+
+* * *
+
+**Apr 19**: TBD; proposal drafts due to peer review group
+
+**Apr 24**: Peer review session
+
+**May 3**: Final proposals due noon ET
