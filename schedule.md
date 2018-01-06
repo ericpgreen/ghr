@@ -120,7 +120,7 @@ The goal of this module is to help you think through these two questions.
 |---------|---------------------|
 | Mar 1  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
 | Mar 6  | [4.2 Power and hypothesis testing 1]({{ site.baseurl }}/modules/mod4/s4-2/) |
-| Mar 8  | [4.2 Power and hypothesis testing 2]({{ site.baseurl }}/modules/mod4/s4-3/) |
+| Mar 8  | [4.3 Power and hypothesis testing 2]({{ site.baseurl }}/modules/mod4/s4-3/) |
 
 <p></p>
 
