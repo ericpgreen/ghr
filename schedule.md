@@ -130,7 +130,7 @@ The goal of this module is to help you think through these two questions.
 
 **Mar 8**: Post-midterm review; Introduce research proposal assignment
 
-**Mar 13/15**: No class, Spring Break:
+**Mar 13/15**: No class, Spring Break
 
 * * *
 
