@@ -157,6 +157,7 @@ The goal of this module is to teach you about the strengths and limitations of e
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | Malaria and Bednets: Part 1  | Mar 29 |
+
 <!--
 | [Malaria and Bednets: Part 1](https://drive.google.com/open?id=0Bxn_jkXZ1lxub1VpYlRiV3AzbDA)  | Mar 29 |
 -->
@@ -180,6 +181,7 @@ The goal of this module is to introduce you to quasi-experimental designs that y
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | Malaria and Bednets: Part 2  | Apr 5 |
+
 <!--
 | [Malaria and Bednets: Part 2](https://docs.google.com/document/d/1yVGN3cGhYXIAd6RYlAyMxHVFpezKzq4lUbY2Qta5Xvc/edit?usp=sharing)  | Apr 5 |
 -->
@@ -211,6 +213,7 @@ The goal of this module is teach you how to use observational designs to describ
 | Assignment                    | Due Date |
 |-------------------------------|----------|
 | Malaria and Bednets: Part 3  | Apr 12 |
+
 <!--
 | [Malaria and Bednets: Part 3](https://docs.google.com/document/d/1X-_504kJoHf-xI4AR0gJKgghZlB8ZVbUQFJ97Z9vwog/edit?usp=sharing)  | Apr 12 |
 -->
