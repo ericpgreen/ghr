@@ -19,4 +19,4 @@ As we build up to this discussion, we will cover research basics, such as asking
 
 * * * 
 
-*This course is only available to Duke University students, but everyone is welcome to use the resources accessible through this website. Course content shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*This course is only available to Duke University students, but everyone is welcome to use the resources accessible through this website. Course content shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Landing page photo by [dfataustralianaid](https://flic.kr/p/hktJZM) on Flickr ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)).*
