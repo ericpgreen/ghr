@@ -32,6 +32,8 @@ navbar-links:
     - Piazza: https://piazza.com/duke/spring2018/glhlth371psy309/home
   Workshops: 
     - I Eat Data Science for Breakfast: "workshops/ieat"
+  Office Hours:
+    - Methods Mondays: "officehours"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
