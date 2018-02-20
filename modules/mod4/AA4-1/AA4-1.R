@@ -6,9 +6,6 @@
   library(data.table)
   library(httr)
 
-# document setttings
-  knitr::opts_chunk$set(results='hide')  
-
 # rounding functions
   rd0 <- function(y) sprintf("%.0f", round(y, 0))
   rd1 <- function(y) sprintf("%.1f", round(y, 1))
@@ -24,9 +21,9 @@
   
 # create a variable for ever married
   dat$everMarried <- ifelse(dat$marst=="Divorced" |
-                              dat$marst=="Married, spouse absent" |
-                              dat$marst=="Married, spouse present" |
-                              dat$marst=="Widowed", 1, 0)
+                            dat$marst=="Married, spouse absent" |
+                            dat$marst=="Married, spouse present" |
+                            dat$marst=="Widowed", 1, 0)
   
 # convert age variable from categorical to numeric
 # make some simplifying assumptions about age categories
@@ -45,3 +42,7 @@
   #table(dat15$marst)
   singleCt <- table(dat15$marst)[names(table(dat15$marst))=="Never married/single"]
   singleP <- singleCt/N
+  
+# age
+  ageMPop <- mean(dat$ageN)
+  
