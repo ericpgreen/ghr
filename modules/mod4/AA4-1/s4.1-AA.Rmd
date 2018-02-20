@@ -1,17 +1,14 @@
 ---
 title: "Session 4.1 Application Activity"
 output:
-  html_document:
-    df_print: paged
-  html_notebook: default
-  pdf_document: default
+  html_document
 ---
 
-This R notebook accompanies the [Session 4.1 application activity](http://www.globalhealthresearch.co/modules/mod4/s4-1/) for [Global Health Research: Designs and Methods](http://www.globalhealthresearch.co/). To get started:
+This page accompanies the [Session 4.1 application activity](http://www.globalhealthresearch.co/modules/mod4/s4-1/) for [Global Health Research: Designs and Methods](http://www.globalhealthresearch.co/). To get started:
 
 1. Login to your 'virtual' RStudio environment on Duke's server. Go [here](https://vm-manage.oit.duke.edu/), enter your credentials, and follow the `Docker` link to the option to launch RStudio. 
-2. Click the "Code" button in the top right corner of this page and download the `Rmd` file.
-3. Back in RStudio, go to the `Files` tab, and `Upload` the `Rmd` file you just downloaded. Then open it in RStudio.
+2. Copy/paste this code into the console and hit enter: `download.file("https://tinyurl.com/yarmjp8w", destfile = "AA4-1.Rmd")`
+3. This will download a file called `AA4-1.Rmd`. Go to the `Files` tab and open this file.
 
 ## Setup
 
