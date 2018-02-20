@@ -33,6 +33,7 @@
               ifelse(dat$age=="90 (90+ in 1980 and 1990)", 90,
               ifelse(dat$age=="Less than 1 year old", 0, dat$age)))))
   dat$ageN <- as.numeric(dat$ageN)
+  ageMPop <- mean(dat$ageN)
   marriedBefore15 <- nrow(dat[dat$everMarried==1 & dat$ageN<15,])
   
 # single, never married
@@ -43,6 +44,4 @@
   singleCt <- table(dat15$marst)[names(table(dat15$marst))=="Never married/single"]
   singleP <- singleCt/N
   
-# age
-  ageMPop <- mean(dat$ageN)
   
