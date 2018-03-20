@@ -156,11 +156,7 @@ The goal of this module is to teach you about the strengths and limitations of e
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| Malaria and Bednets: Part 1  | Mar 29 |
-
-<!--
-| [Malaria and Bednets: Part 1](https://drive.google.com/open?id=0Bxn_jkXZ1lxub1VpYlRiV3AzbDA)  | Mar 29 |
--->
+| [Malaria and Bednets: Part 1](https://docs.google.com/document/d/1GconRJ6fCt6BCmAYYffJneyGSsWNoEk1zlZzK7Z3-Q0/edit?usp=sharing)  | Mar 29 |
 
 * * *
 
