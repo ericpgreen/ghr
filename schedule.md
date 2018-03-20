@@ -253,4 +253,4 @@ The goal of this module is to help you understand how research is produced and, 
 
 **Apr 24**: Peer review session
 
-**May 3**: Final proposals due noon ET
+**May 3**: [Final proposals](https://drive.google.com/open?id=1i2BbT06Fzt0d9ppxBNMjQCbipYPaHKTH) due noon ET
