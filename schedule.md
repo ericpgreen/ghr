@@ -234,7 +234,8 @@ The goal of this module is to help you understand how research is produced and, 
 |---------|---------------------|
 | Apr 10  | [8.1 Choosing a research design and method]({{ site.baseurl }}/modules/mod8/s8-1/) |
 | Apr 12  | [8.2 Writing proposals and manuscripts]({{ site.baseurl }}/modules/mod8/s8-2/) |
-| Apr 17  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/) |
+| Apr 17 | Proposal work day (optional) |
+| Apr 19  | [8.3 From research to policy impact]({{ site.baseurl }}/modules/mod8/s8-3/); proposal drafts due to peer review group |
 
 <p></p>
 
@@ -245,8 +246,6 @@ The goal of this module is to help you understand how research is produced and, 
 | None  | NA |
 
 * * *
-
-**Apr 19**: TBD; proposal drafts due to peer review group
 
 **Apr 24**: Peer review session
 
