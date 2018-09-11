@@ -50,7 +50,7 @@ The goal of this module is to help you become a better consumer of research. Thi
 | Sept 4  | [2.1 Systematic reviews and meta-analyses]({{ site.baseurl }}/modules/mod2/s2-1/) |
 | Sept 6  | [2.2 Searching the literature]({{ site.baseurl }}/modules/mod2/s2-2/) |
 | Sept 11  | [2.3 Critical appraisal]({{ site.baseurl }}/modules/mod2/s2-3/) |
-| Sept 13  | [2.4 Evaluating claims of causality]({{ site.baseurl }}/modules/mod2/s2-4/) |
+| Sept 18  | [2.4 Evaluating claims of causality]({{ site.baseurl }}/modules/mod2/s2-4/) |
 
 <p></p>
 
@@ -58,7 +58,7 @@ The goal of this module is to help you become a better consumer of research. Thi
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [Asking a question and searching the literature](https://drive.google.com/file/d/0Bxn_jkXZ1lxuR19MSm45Vkx5NUU/view?usp=sharing)  | Sept 20 |
+| [Asking a question and searching the literature](https://drive.google.com/file/d/0Bxn_jkXZ1lxuR19MSm45Vkx5NUU/view?usp=sharing)  | Sept 25 |
 
 * * *
 
@@ -75,11 +75,11 @@ The goal of this module is to introduce you to global health indicators, methods
 
 | Date    | Session             | 
 |---------|---------------------|
-| Sept 18 | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
-| Sept 20  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
-| Sept 25  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
-| Sept 27  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
-| Oct 2  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
+| Sept 20 | [3.1 Developing a theory of change]({{ site.baseurl }}/modules/mod3/s3-1/) |
+| Sept 25  | [3.2 Global health indicators]({{ site.baseurl }}/modules/mod3/s3-2/) |
+| Sept 27  | [3.3 Measurement]({{ site.baseurl }}/modules/mod3/s3-3/) |
+| Oct 2  | [3.4 Quantitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-4/) |
+| Oct 4  | [3.5 Qualitative methods of data collection]({{ site.baseurl }}/modules/mod3/s3-5/) |
 
 <p></p>
 
@@ -87,7 +87,7 @@ The goal of this module is to introduce you to global health indicators, methods
 
 | Assignment                    | Due Date |
 |-------------------------------|----------|
-| [From research questions to study measurement](https://drive.google.com/file/d/0Bxn_jkXZ1lxuYVBOYVpSNmN2ZTA/view?usp=sharing)  | Oct 9 |
+| [From research questions to study measurement](https://drive.google.com/file/d/0Bxn_jkXZ1lxuYVBOYVpSNmN2ZTA/view?usp=sharing)  | Oct 11 |
 
 
 ### <a name="mod4"></a> Module 4 - Sampling and Power
@@ -110,9 +110,8 @@ The goal of this module is to help you think through these two questions.
 
 | Date    | Session             | 
 |---------|---------------------|
-| Oct 4  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
-| Oct 11  | [4.2 Power and hypothesis testing 1]({{ site.baseurl }}/modules/mod4/s4-2/) |
-| Oct 16  | [4.3 Power and hypothesis testing 2]({{ site.baseurl }}/modules/mod4/s4-3/) |
+| Oct 11  | [4.1 Sampling]({{ site.baseurl }}/modules/mod4/s4-1/) |
+| Oct 16  | [4.2 Power and hypothesis testing 1]({{ site.baseurl }}/modules/mod4/s4-2/) |
 
 <p></p>
 
