@@ -127,7 +127,7 @@ The goal of this module is to help you think through these two questions.
 
 **Oct 23**: Midterm
 
-**Oct 25**: Post-midterm review; Introduce research proposal assignment
+**Oct 25**: Post-midterm review;  Introduce research proposal assignment
 
 * * *
 
