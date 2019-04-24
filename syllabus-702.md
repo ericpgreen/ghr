@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: GLHLTH 371 / PSY 309, Fall 2019, Duke University
+subtitle: GLHLTH 702, Fall 2019, Duke University
 ---
 
 ### Instructor
